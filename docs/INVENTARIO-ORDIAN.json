@@ -1,0 +1,1552 @@
+[
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/AuditLogController.cs",
+    "sha256": "0ea0eeccdd6950b97e6754479151e44da2af4a2db928ab5c36b8b39e8af4d8d9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/AuthController.cs",
+    "sha256": "2a3b9ee2406f507d859ec1dcf5a3e123a600c43b651cf3cf95cb20d2b1812821"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/CheckListController.cs",
+    "sha256": "66b850952f9e8bec70d909c8f13210bc1072606315a9d84da977363744ee9989"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/CheckListItemController.cs",
+    "sha256": "168feb72242bf64d26bae09216a1466a48024a442c6b888c8a7eb0d4cd6698aa"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/DepartmentController.cs",
+    "sha256": "56cc879e86234509f52749fdde90f00426434a2e800f2d14759a3a52c32a66dd"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/DocsController.cs",
+    "sha256": "735c40514122b71ebe3c8cb7c9291e587cd92513196952e3d201471c1f0d6114"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/ExternalAuthController.cs",
+    "sha256": "164a7ecc0205828b7824ae48f4acb96f86dbb4f9c1ef3cdd73f5d3bdc7e39a8d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/KnowledgeCategoryController.cs",
+    "sha256": "115ee26695f6aecf069f1cc03342d5c55e5347b867dd9c2cf15b15d09495a986"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/KnowledgeCommentController.cs",
+    "sha256": "e53714ac6cb19481bfe9dbe1d89447fa52f3bd279c7a65bbebe53835fabc2820"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/KnowledgePostController.cs",
+    "sha256": "b0c752522fb7b742bdc7c5f3fb5a657dfe7caa6468870dcc6d24847e7d41b74c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/SlaCalendarController.cs",
+    "sha256": "3e00f2f1194e3cc49e6b40098756dfbffeb58d7e3a227c3d56e964ec3b94fff8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/SlaPolicyController.cs",
+    "sha256": "139a4ba320a48335bf6a7a8d818cbebdb3c5d9fb5da089dcbc4093d1064317ef"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/SuperAdminController.cs",
+    "sha256": "395e3b5a54f4b356db63ab7407cc75111ddb98952527039d56303b042feec41b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketAgentController.cs",
+    "sha256": "5882ca2103c517da66287f992d39d145f042e5a308276dd326bbfae935e5d52b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketAttachmentController.cs",
+    "sha256": "393b9c0a3f9881fb1cd1252e0f8cc10739740b365f9994616e48bd58080cab76"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketCategoryController.cs",
+    "sha256": "e871a00fd5979ab258caae55c2e0e3c130292e15cedaf1ee7403c8be7853657f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketController.cs",
+    "sha256": "c44f365f1f7ebc88470723c8a1ec0d43353787a6944f542cdf63c1fb4239f7a1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketMessageController.cs",
+    "sha256": "08a2a73e414f785cd8aaaea3f009819b121cc06de120c8a640cc6939ac8cb996"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/TicketReportsController.cs",
+    "sha256": "5de49d25cecba43a1ab074d5e6e7e54ba89be1b7cabda685aac329cd9f56b5fb"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/UserController.cs",
+    "sha256": "8d6bc2c0279c1661126ddaa9333d248eb453b4b5e2ddfabbabed26cc6969921f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Controllers/UserDepartmentController.cs",
+    "sha256": "1e45999aaf534dd5437a1d682ea686d1f273a39451262ea2e79aa8e3c2eb5a29"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Hubs/CheckListHub.cs",
+    "sha256": "87d69dd4c2dc1b260467f8d7cb4ef6272bc830f37097b9702372471d5ef35b30"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Hubs/PostCommentHub.cs",
+    "sha256": "81308c16382e6a5c3815230e68b0257b9f6c9f4eddc317bac8be8628c0025139"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Hubs/TicketHub.cs",
+    "sha256": "4f6e24ab5bba33cf3e115b6bef6b18ec5b620d4f78bddb25b12e89e45fbd5ffa"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Middlewares/ExceptionMiddleware.cs",
+    "sha256": "735958d53e2f929f465861fdb2cf1b5030b75d47e892019a9542c0e88b9e9c5c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Program.cs",
+    "sha256": "dc1f12240169c68b3c4a0db39b1646cfe546f7a8c3004b0676ebfc58a3cd7cc6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Services/SignalRCheckListNotificationService.cs",
+    "sha256": "d6cbee4a2d3543d683518411a3f464022d2ea7f719637ad3c2aaab5f52ba4ab8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Services/SignalRPostCommentNotificationService.cs",
+    "sha256": "17220ec4c1e2b7a0bd09e2036a96c2b12ac6dfae6873360ec87c6ebb1c57c23d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.API/Services/SignalRTicketNotificationService.cs",
+    "sha256": "c40ebd5e57ef466c24e604bc2a17384ad756de1de35fbd452fd50182a87eca1a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuditLogsDTOs/AuditLogCreateDTO.cs",
+    "sha256": "0dc3d90499674f1a716d5d703da232b8352a3fb661282e65e7a18b9faf148683"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuditLogsDTOs/AuditLogResponseDTO.cs",
+    "sha256": "4ae5e42257953a5fad912358cec41650226e150394dba6257c6362ea13ff67be"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuditLogsDTOs/AuditLogTicketResponseDTO.cs",
+    "sha256": "c175f42ddc3402fc1bef0684e1551089604a5b85bf264a95515e084efbf36d60"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/ForgotPasswordDTO.cs",
+    "sha256": "f869a6a661505bc81d11b577fc170332a38c9abe134adaa4c9feb968c10f398c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/LoginDataDTO.cs",
+    "sha256": "89f9152da6b356c8d6eb7a9045de7698da836c35136683106182bec807baecd3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/LoginResponseDTO.cs",
+    "sha256": "1b3b4d0bb52dde6cfa6823e7c6db2cc33328c3e1961a50113be58ffc4b92be46"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/LoginResponseMeDTO.cs",
+    "sha256": "3756ef49520b7152fddd18e0678044f83b3059f4b770d225f4ccaef61ee131d6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/PasswordUpdateDTO.cs",
+    "sha256": "ee134b09644135cf422658cade1f01c307bb0bc5926ec8e19b9873acb8f3f26b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/RegisterDTO.cs",
+    "sha256": "7f3883f3963dac798f8109c4a603fe737e36849735841b40e8d3c299270c6253"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/AuthDTOs/ResetPasswordDTO.cs",
+    "sha256": "b565c64fdcd31988684abb9e25e8fa6a8fd2d661737e0943b4cf7869120190bc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListCreateDTO.cs",
+    "sha256": "81205f4431461177e221e10630d77cef04bc41247aa76e4523e4c0cb53cc9f37"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListItemCreateDTO.cs",
+    "sha256": "072053cf0069c8afefff9fc5a7fafd964fc3a1627386a71aa9e66af931421244"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListItemResponseDTO.cs",
+    "sha256": "d5044e68f4fac9b53ad72d0aebca3ea4890c92433a4d80b5f3c32d26ef2c6a96"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListItemUpdateDTO.cs",
+    "sha256": "07eafd0afcdf443ba313f99ddc8fe6e989d23a26153a80fc4560212a61f2969b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListResponseByIdDTO.cs",
+    "sha256": "ffae7e7a22821c3761af0f4ac6b2edf5d36ce035fa9da7e74dfb5653a7a24feb"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListResponseDTO.cs",
+    "sha256": "668a9b5a97546dbce74b6ff1f9d4aa8ba58cfba11095de8e96122892c8cbc37b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListResponseWithItemsDTO.cs",
+    "sha256": "2fb1ed136e9f22575a7829b5b45d216972536531a2a60077da9bf42fd0d027d9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/CheckListDTOs/CheckListUpdateDTO.cs",
+    "sha256": "026a0d6c7991352938570cd720b352c4be24e0d8b679bc84c4fa55ef53b9824e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/DepartmentDTOs/DepartmentCreateDTO.cs",
+    "sha256": "90a9ea9f0fb024847fdfc3c78dbfc35b8a1741a13a2a821b8ce792f9b75e7423"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/DepartmentDTOs/DepartmentResponseDTO.cs",
+    "sha256": "d674241603f4b5500a400050e97e9535917e114a344f83397d543444f3a4096c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/DepartmentDTOs/DepartmentUpdateDTO.cs",
+    "sha256": "5441a5aa6d0d15701054b074a8faf68d2c50956e71385777b10d457665b21b13"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/DocsDTOs/DocumentCreateDTO.cs",
+    "sha256": "fd1b9dec45ebcde7af1ebab6404b14bee5bfe59e50506c351c6cb9baf113316a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/DocsDTOs/DocumentResponseDTO.cs",
+    "sha256": "48d7a040d4c21bd1814959b29cec06c4d1a9cc8c734b9ff1befa012d7b125d34"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCategoryDTOs/KnowledgeCategoryCreateDTO.cs",
+    "sha256": "cd7eaaa93ac025f3c96bb88502b04b1b1ff51269ad72f633f8e05c238f81c008"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCategoryDTOs/KnowledgeCategoryResponseDTO.cs",
+    "sha256": "ff9430983c7cf0b6028907a1ed2b8607e542821e0484bce87cdbb72d5967cf37"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCategoryDTOs/KnowledgeCategoryUpdateDTO.cs",
+    "sha256": "2ae77c4d30ecb1f7fe74b8e610eddfd383d09e4cfe4838062c2a586d73956c8f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCommentDTOs/KnowledgeCommentCreateDTO.cs",
+    "sha256": "e80d7724f38a1d0d9129445fe104f7bd9204a8d754ed5fc9dae3671682b97664"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCommentDTOs/KnowledgeCommentResponseDTO.cs",
+    "sha256": "22d4b2ce636cb114f14393799b1bfca550f0bfd9de80132220f550bfc2f87cab"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgeCommentDTOs/KnowledgeCommentUpdateDTO.cs",
+    "sha256": "9e23dde0b70b06398c99386c2759a470426720a1942ba849e9d20b32a00933b8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgePostDTOs/KnowledgePostCreateDTO.cs",
+    "sha256": "9cbbf0df9b332c49a90b6e8c178988bd3fa05a92eeeaf08de2f3d397f1d196c0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgePostDTOs/KnowledgePostResponseDTO.cs",
+    "sha256": "411033bc590d922e409cc12b47487716dae1dbcc0f31568aa964dee06575f30d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/KnowledgePostDTOs/KnowledgePostUpdateDTO.cs",
+    "sha256": "46fc45c4bf6aebe8773abbc94fc45b55ea1546452a5843d1baa1a05190db44ce"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/Pagination/PaginationParams.cs",
+    "sha256": "ea963d8a54bdf6a8046400c6675d2217981f02def2f25fe40519f60bec192792"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/Pagination/PaginationResult.cs",
+    "sha256": "70bbfa6eeab76f17845b626ef37a7751afcb4ead2e80deead5f47e00ac0d3650"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/SlaReportResponseDTO.cs",
+    "sha256": "a3d9d90abc7a698e5f1455ea283247e805ebe03424aea95c8aaf7ee2fda7c9f5"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketAgingDTO.cs",
+    "sha256": "e3405005d5c3df42aebbaf322edab7f7de63ca46d3dc3628ab1e36b68e09f0b3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketDashboardResponseDTO.cs",
+    "sha256": "6072c7413d70f0a4c6991f6f98705162c2e247cc93e3d919deb50b82f4c975b7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketReopenedReportDTO.cs",
+    "sha256": "9fe41c09245b88232a36cc4a513974cd8ea3889274cf83f406d1443925e0af6f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketReportFilterDTO.cs",
+    "sha256": "e4e142d600358ffb04781990f114ed574f4cece80e5794ff045592889bd0586d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketTimeMetricsDTO.cs",
+    "sha256": "2ebc835c7d560b0d5b96af8f931f6740b22cd8996c0388ef7245acf6d92553ad"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketTrendDTO.cs",
+    "sha256": "11a356ca7d2e044962467ce48e03e586a270d0aa1fcb316b7931af75452e1ccb"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketsByAgentDTO.cs",
+    "sha256": "0e1ecc6cb54b0435a890f4db2a622731dbf04db7da45d6c7176cbe6934932a16"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketsByCategoryDTO.cs",
+    "sha256": "de4cbeee615d5629caf9c551cbbaeec48c33320b1eb9821eb77444e7d430e8d3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketsByDepartmentDTO.cs",
+    "sha256": "7aa40a0d0fedce5a5af3edcfc95c02b39cbef8f14721144f2299e2f86d3fbc83"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketsByPriorityDTO.cs",
+    "sha256": "84bc464797664fff2424137116832b0afc2a5f1361d677103f5e9bd21150678f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/ReportsDTOs/TicketsByStatusDTO.cs",
+    "sha256": "e26c9f35f6790cbb982962917a70928199cb945bfcd89b8397ba56c2b8770dea"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaBusinessHourCreateDTO.cs",
+    "sha256": "fe120cc24a28f05ed81fe0c7cbe3af0d450b6141bc86fb35a67d54039fc37308"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaBusinessHourResponseDTO.cs",
+    "sha256": "bd7637431bc2632eae30cc9d86fd68c93a364e148e0d51a13dab133e8f66af18"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaBusinessHourUpdateDTO.cs",
+    "sha256": "84e238487f1927a0726bf366c25576b29dd7d2029d80135037e3a649b8bb286f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaCalendarCreateDTO.cs",
+    "sha256": "c5e55e7a997f3a5051a1f43d4ebe3f0d07be102ed8f45534eceb2ea7e90ec0b6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaCalendarResponseDTO.cs",
+    "sha256": "f4a5d742b74e8914e0c05a4471ffdacdcd62bc0133ab2c212f21bca28acce0a0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaCalendarUpdateDTO.cs",
+    "sha256": "b1426ba38bfd038866f2a95a5629249374c512458b44544b99e85d3a04f75182"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaHolidayCreateDTO.cs",
+    "sha256": "db1330193f9746bb4c4f73995c2ad57d84f120d2b2d31cb82a6ab1a1f782115d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaHolidayResponseDTO.cs",
+    "sha256": "cd660ff4b1a638739c5fd133465b14d8d7d30348d2b2752d65a7f7ddcf00f1ab"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaHolidayUpdateDTO.cs",
+    "sha256": "504323513ba89d252a856bf1f120c742f1cfb53e4b730509aad30cb89100db48"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaPolicyCreateDTO.cs",
+    "sha256": "ff1999c2c98477adc1eb0ddf03041f7fde444fc6d50a99763a71e9a4eb2d1776"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/SlaPolicyResponseDTO.cs",
+    "sha256": "e2e2fb9acd2165d7b93e3ca28a25b8f077cdd1e672638dea91a81662faac9c44"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/SlaPolicyDTOs/UpdateSlaPolicyDTO.cs",
+    "sha256": "e0f3e174bedc41ad503855d4d108c472cee587c49c642272e605b9bd63dc774c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketAgentDTOs/TicketAgentCreateDTO.cs",
+    "sha256": "a241c3ea8e436976ae556f414825e0037c7273981b0b1d0a08cdde9ab661ccf1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketAgentDTOs/TicketAgentResponseDTO.cs",
+    "sha256": "5a60cbad8093ed38051b7dab28698d8f95ba162ea8921ed5a86a64f6a6e6a356"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketAgentDTOs/TicketAgentUpdateDTO.cs",
+    "sha256": "03a33d14cf8b1969d3390590b3261f22a6a5e2c6e93542b6cc99deabe6d8e8d5"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketAttachmentDTOs/TicketAttachmentCreateDTO.cs",
+    "sha256": "2bae4864991173309a1f14b3dd1e3ba9a0c71cf6d608edbf3b44086f1832fde8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketAttachmentDTOs/TicketAttachmentResponseDTO.cs",
+    "sha256": "f9de5083d7a52b39ae3e615c9408a79548177a8c26a9448c33e4fd941ecdccbd"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketCategoryDTOs/TicketCategoryCreateDTO.cs",
+    "sha256": "748207f8e8c8ed8b4a8b641e71c60dceb0a98594596078aaba8414d3e5478f30"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketCategoryDTOs/TicketCategoryResponseDTO.cs",
+    "sha256": "06ae2a97e6caadca691aaf44f386097c6ad8f310269073ec821e9498ddf935b8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketCategoryDTOs/TicketCategoryUpdateDTO.cs",
+    "sha256": "61e301cc3b475c79b72c09f5de319dd31b368fbda026992b320d02eba31c486f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketDTOs/TicketCreateDTO.cs",
+    "sha256": "e9069270b697d43f89ffd29b9147646eac009ad4ac23f4882527e2ef85fed892"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketDTOs/TicketResponseDTO.cs",
+    "sha256": "0785f8240ea572803b05184429cc9750f85a7524329d28f9081f4ea6d3405a6a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketDTOs/TicketUpdateDTO.cs",
+    "sha256": "43b28a0619eb46eef90e086c6a88c66c37a952f0923eb2278f29e88cd7bad49c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketDTOs/TicketUpdateStatusDTO.cs",
+    "sha256": "097d5aad8b2be759e50b9c33b12c9f3e2c13144142fa253c8a492e31bf661990"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketMessageDTOs/TicketMessageCreateDTO.cs",
+    "sha256": "4c25a496f96bfc8e80c0ebc886861a3fe0c31a8a230f11c0858a063a0dbb1ac5"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketMessageDTOs/TicketMessageResponseDTO.cs",
+    "sha256": "2486a8613344b672ad00470c33519107408cd0948ca372869f6628c95519f550"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/TicketMessageDTOs/TicketMessageUpdateDTO.cs",
+    "sha256": "40a8150d660554ee675a2aa2fb34be3d4fa31e2a222317f02bab9119e11171c6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/UserDepartment/UserDepartmentCreateDTO.cs",
+    "sha256": "04154c40e709797f3a133e84a8d27ea7f06236416e0a80529cd89d8c13803b8f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/UserDepartment/UserDepartmentResponseDTO.cs",
+    "sha256": "f7a627c0638f3f8059fb517117878761604ec4f6c42e6c888d7e5d98556f01c9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/UsersDTOs/CreateAdminDTO.cs",
+    "sha256": "b00fd34f72b4327664b5d278cb2df931fee6bb1f3c4de1a5dfe07a7d6aed2e69"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/DTOs/UsersDTOs/UsersResponseDTO.cs",
+    "sha256": "e985a5f04b8199a171c2e6e77be180571b2af443a9bbff7a82df7d92e9c5db54"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Exceptions/AppException.cs",
+    "sha256": "f1b6a2092f52dfaa4c630a6c207bc0e820ebcee7fde2948a6cb7d28642f6f692"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Exceptions/BadRequestException.cs",
+    "sha256": "a242042d5071eac8d38352b12bdccd419df16d59604638972d4967dabd5b3183"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Exceptions/ForbiddenException.cs",
+    "sha256": "a762f690a2e11564e393a89929f007927c233eed69cb153d73746fe7bb9288c7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Exceptions/NotFoundException.cs",
+    "sha256": "7a125853ca3565565f448826af08ce3598af9b6a3b886cbbfb1d304f7f4dc049"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Exceptions/UnauthorizedException.cs",
+    "sha256": "71122cb7fc20ff781fd8113304ba890c532fe5cb2507241de3e9be4718aac26f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Audit/IAuditLogRepository.cs",
+    "sha256": "5c437e835f7fab7a253d7ab93ca9bc0636de0948d2a94e5e65ce4a73454b8c41"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Audit/IAuditLogService.cs",
+    "sha256": "db5e243c166fff1ad9b0b5a768c8b9996696510a10fa5e3b1e90a989bf1138b0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/CheckListsFeatures/ICheckListItemRepository.cs",
+    "sha256": "231ba123e21505ce4507596b44f4f1ec9cea94aa2e369d2efbee662fa45ab6a7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/CheckListsFeatures/ICheckListItemService.cs",
+    "sha256": "3f652e109ef69f9d0ba743c2dded2996b049100ae0ecd5d9396b75bd70b8c178"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/CheckListsFeatures/ICheckListRepository.cs",
+    "sha256": "5bf57ed22300ded71f99254b318ce86a6d0f4e8e41f49427a3fb988bb847694a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/CheckListsFeatures/ICheckListService.cs",
+    "sha256": "064aecdd5a9c43af0b5cc138098f7dded74ebab9a6712a3b33c22ccea18b39bc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IAuthService.cs",
+    "sha256": "a1de89bf20bfd3997f8b2ca4ec893ac69eef1059d0886e4c9204ce9eeea98869"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/ICacheService.cs",
+    "sha256": "3998563f2d29613b397d5010d3aca87b7700b1582ee2c5722498ea78b57ee989"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IDepartmentRepository.cs",
+    "sha256": "e0bdb68ed76c01b0ab8d321d754171535b4ae2e1a9baf09a4f5d38ba2e941533"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IDepartmentService.cs",
+    "sha256": "9e01d8aef05b15a3d7d42fd205fae148a539b8235d192260c3a23d86a6d98f30"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IDocsRepository.cs",
+    "sha256": "b6a9b0d7fa68e59ac42b520bb35222ba399540142046252cbc1ef2e4e7a019d0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IDocsService.cs",
+    "sha256": "7ccce59a929410071c2ccff8a5017d2caa94812673ad9c19e2a251cbccc2d274"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IEmailQueue.cs",
+    "sha256": "2c53a571fac9a38f7ee83e72dd407a6abae99d20fd3a2a0015bf2e1edf6356b6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IEmailService.cs",
+    "sha256": "fa0b8d13163f32fae2a42e72241af16bacb5cd19e2cc6bdf06d4c48abb4827c8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IExternalAuthenticationService.cs",
+    "sha256": "8825aa245f564be9e439a7bd101d1effe0a350d9d9e47141415cf76f37b13c51"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IFileStorageService.cs",
+    "sha256": "6ff5b329967efe27a61162bc5993d61165f7403176ffd50be0bd82fd98327667"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/ISuperAdminService.cs",
+    "sha256": "bc153fd57feabd6235c58ccb6f518a078ecb43be4ace3d03132d2b95306f19a9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IUserContext.cs",
+    "sha256": "51face20e7cba8ea86db6329fb4a21b33bb9edae3026bc75d0d402bd9e000cd3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IUserDepartmentRepository.cs",
+    "sha256": "dea7bf506ce3a1b1474468b216512271fc747a0fa31e6ac53fe81ef1b59e7f40"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IUserDepartmentService.cs",
+    "sha256": "acead9783a73e8a6fb3ae1ed40ca36d2a9d6004d27419d0da87db4c7548bec4b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/IUserService.cs",
+    "sha256": "47c812454c3e22a9c57ec480ddb7f697edf55a175f60b236c8ec5f291d7dd2c7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeAttachmentRepository.cs",
+    "sha256": "2d7c114d37dc4f576393ff9dcc115b14543c1de6c4d2f0f2ec580fb6ff500126"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeAttachmentService.cs",
+    "sha256": "c962a54af400454d68d6281f796902ea9cdffb515d59cf98241b249a9e29ad82"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeCategoryRepository.cs",
+    "sha256": "5d3b00cfb73a8a82855b739fc0278099103aec1c01b933f19d4ef65f2b1405d5"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeCategoryService.cs",
+    "sha256": "c390709b66d679c47739532332680b929c18005c88b881a0846b6a27a1ad5e3e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeCommentRepository.cs",
+    "sha256": "3db747097b521eda76d884388447b53645d16352c321aca861d5be8b37f7dbc6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgeCommentService.cs",
+    "sha256": "e20fe5318cad0e67ad35fabd05ecfc7ddec6ce4c49b1fe47e8fc42f8ff5d6730"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgePostRepository.cs",
+    "sha256": "fa7f52200ac2feb3e4b9101d1b4ea9ca39b30a29ccd770352914613dd88761a7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/KnowPosts/IKnowledgePostService.cs",
+    "sha256": "74f52f3b5262930cd0b19c587092336f0e5fb3abd9a047f2c20d0c6a70d2fafe"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SLA/ISlaCalculatorService.cs",
+    "sha256": "7ca9b38ceb59369b82d0b4c1327b61910271adf34983613f0c524c6da46e01a1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SLA/ISlaCalendarRepository.cs",
+    "sha256": "a595c52eaa811e18bbdadd4edcc84dc2e449d4021381a04f409b371a7fc81fa2"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SLA/ISlaCalendarService.cs",
+    "sha256": "19036b776f087c2f16c1e1b93e7d8367da14a9cddd3df5ce57c039f4fce1b975"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SLA/ISlaPolicyRepository.cs",
+    "sha256": "364b39621ad3df8706c549549a94caabab302091a230e47f5f7a9f23498eb47e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SLA/ISlaPolicyService.cs",
+    "sha256": "896072096ee3d9b20fb326848f4962377c49800c18a36c2708c1e34f7f9df40a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SignalR/ICheckListNotificationService.cs",
+    "sha256": "0bb9d02f065e36347b745fa3b105a9674c6165b6ffbc8c962cc6ba4fa86c3122"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SignalR/IPostCommentNotificationService.cs",
+    "sha256": "fbe68a863f11e0770d468003c2aa1881eb9059c2f970525f24c02d8f8f9727d7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/SignalR/ITicketNotificationService.cs",
+    "sha256": "ff8e5fa8873ca7dc4b1319a571c10e2b6f0fe4f4165ec19daa9aa86dc7164cf6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketAgentRepository.cs",
+    "sha256": "d70a3bd11387e5284974b9d379158a50b1b8755b770598d77410e3de7cedc204"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketAgentService.cs",
+    "sha256": "ebc4cc448e4bb1703a0185f9a6ff78a15d9283ebac59efcf02d34f42a063653b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketAttachmentRepository.cs",
+    "sha256": "c6d55d6bb918499e4178cfe1eac28195e820d3a10cbf7b014d750fb57ea99a5c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketAttachmentService.cs",
+    "sha256": "fadad172e5bfc384f6fe78e27823b9992cac74de937ab28b09f9800af723a5dc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketCategoryRepository.cs",
+    "sha256": "8020d7669d39ae8c8455cb8d49932ab02997d6c74b6a24ce9fed66aca2e7347a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketCategoryService.cs",
+    "sha256": "7a985726e52a28fb738478fcc1c907ff579255ae94a8a0259af8b79e9db604bd"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketMessageRepository.cs",
+    "sha256": "341b45c1207751506cea279dcc89086d2a20726394440f0e4ee46bfc9d8a9dd6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketMessageService.cs",
+    "sha256": "f378ac7778923a119692eb4660d61a4b96e3c096d64c6ddc25286cab40550801"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketReportRepository.cs",
+    "sha256": "eb54d34a4fcb1cc5691e1181705a416c9524e7fc5dcb9ece1b4dfbb91439423c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketReportService.cs",
+    "sha256": "8aa6d454116c172b95a88913ff932e71fad3387f284c54a569a1ea11e5472c1f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketRepository.cs",
+    "sha256": "7837f1c08284c4a4c25bb9ee84cd83226e9c4048916972b0875e529b87c5547c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Interfaces/Tickets/ITicketService.cs",
+    "sha256": "27dcbd383f1da8f5de4bb7c1ed2357cb0303e4069c25f964df04e7e965dbb4f8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/CheckListMappingProfileDTO.cs",
+    "sha256": "5277d5cd77ed417b8627d2f2fbd10f9eec05b2d7e7bb89427e3476d583ffa8aa"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/DepartmentMappingProfileDTO.cs",
+    "sha256": "14fccb1c617e9e22bb58fa7daccd2cca66cfb4ee0a1703a03c9b337fbbf82b16"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/DocumentMappingProfileDTO.cs",
+    "sha256": "1785b38f09e549a66eeca8a2f487155ccaabbd8ba3615688f303133d45467834"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/KnowledgeCategoryMappingProfile.cs",
+    "sha256": "c403a278855542e89ded3c41da8886b226ae499ac5aaef1f652ed7bc4a62a3af"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/KnowledgeCommentMappingProfileDTO.cs",
+    "sha256": "62fb352ec8750cbac7ffa8160ea92f06d4040d8085935d795e8bbdad4baef7a8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/KnowledgePostMappingProfile.cs",
+    "sha256": "d60a01ff959c1d2b668e8d0a76e6ea4c7785e4372300ce1af8f58b0f15a3783b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/SlaPolicyMappingProfileDTO.cs",
+    "sha256": "6d4068cccfd9f4f15b3b2ffb8220b9e9dcd5e0eaeb4debfe6cb139c321393e1f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/TicketAgentMappingProfileDTO.cs",
+    "sha256": "592872f56240309a267c411b62c92b015000295a186bbdda0242b182ee67a860"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/TicketAttachmentMappingProfileDTO.cs",
+    "sha256": "0953635c5e5bfbf6ed112afeaf3ce45da55b0ed1c717ed8b7c756e452e845365"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/TicketCategoryMappingProfile.cs",
+    "sha256": "e2f0aa162b45f7682abc3f54716ee4d51e600afd6bcf2e038eeced38fd84d3b0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/TicketMappingProfileDTO.cs",
+    "sha256": "28ee4693e9ec62b24c75a25e764614ae83f760be7b560f032650a03e775b7c52"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/TicketMessageMappingProfileDTO.cs",
+    "sha256": "97df9be7830dd07c7136a65f32a079f75f550abbcf2f7a30563a7da382b315ae"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Mappings/UserDepartmentMappingProfileDTO.cs",
+    "sha256": "97f1619f4aff1b5718123c6646161006a7fd05628ba98f0ea0af4265f3b6f62f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/CheckListItemService.cs",
+    "sha256": "4a74a86b46993a6fe6375918541a293dc608eb30625adb717cbcb7a1fc05e9e6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/CheckListService.cs",
+    "sha256": "b08ee3d9e67b4bd4c511f8627dedae28e0b5037607703974f606deb8f85690ec"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/DepartmentService.cs",
+    "sha256": "1e06a0f1dc69c2d3d6c0ee3454ac17583c2c63e92436bea6e67c8719fba5eb11"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/DocsService.cs",
+    "sha256": "e7f107e261b5e7e351f56c27f9d4e865bcc8cd89647559780d6e7791238fe33b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/ExternalAuthenticationService.cs",
+    "sha256": "7f9f16493e9eae826d3b9dac0fc547f3d9e5212b7ea47e65eb1da7112e5dbd0d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/KnowledgeCategoryService.cs",
+    "sha256": "36ccd33c56cdf0465084a9ddf55e12f03d2d52c3d3e54306c764c31ef1f93d26"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/KnowledgeCommentService.cs",
+    "sha256": "cc02b29ee9f5ed10ee20d60f15e8e9326fef79e8a3c2b45c311245109d45d4ee"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/KnowledgePostService.cs",
+    "sha256": "7fc0ebdfa8b56032d60533553f5c1209d3a244fa1e7c68054b0f2c8a8e638970"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/SlaCalculatorService.cs",
+    "sha256": "19d1b5c5fb2e65aeceb87049f58d50c79c7a273793e641e4d0a3dbb626f3d864"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/SlaCalendarService.cs",
+    "sha256": "d6870cf877aa81d0860027c739a2710075e6bbaeb27bb093f42ee143fc9f6ec8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/SlaPolicyService.cs",
+    "sha256": "782949d9a1b2c4f952f46092e0966704f16030523b0472b70c967d2bceb576e7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketAgentService.cs",
+    "sha256": "246e03b2657bb12c54c2c3ce4764d5e45bb8f2e94d8e72bba09767606c88199a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketAttachmentService.cs",
+    "sha256": "ec1f2ab9829ba7906b5c2b2f7138dc4ae7b873d7022bf9559bfe658e73bbe528"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketCategoryService.cs",
+    "sha256": "548939ddb9aa3dc761b2251fe81b08ec6ebf534c647c40352372ba93c44c5c3d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketMessageService.cs",
+    "sha256": "0ea9625ac157be4d0e941cc255de4b5912dee1193c67ff18b475eadef7772b9a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketReportService.cs",
+    "sha256": "9ab61c9a2c35551c6868506301d636caefbe78225784e3689893af1ad55c3dc7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/TicketService.cs",
+    "sha256": "06edbd00d2235d280ba52e8704c9872c1b1b9a1240eb907823be1caf3dde5bb9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Application/Services/UserDepartmentService.cs",
+    "sha256": "a16a04ff83530739c95afae4aa57ae79862293d1dab4d1679e5ae3e0efb6a15a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/AuditLog.cs",
+    "sha256": "fff6b0ec51338bc7512e8ec07bbcfc2c8244682d2cfc74893d8faeb1f5f7eb32"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/CheckList.cs",
+    "sha256": "4b4ece16d2c0bdccc725740e7795d0507822cb2d2071533db01f358e700a565a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/CheckListItem.cs",
+    "sha256": "d34089f1fcec2629ad959c1213712bf43dacd1aa3532cd79d9230a2af78e74b3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/Department.cs",
+    "sha256": "a3cee4c6655d7d715b3c21cc8250fb9b5f0295c1a02d824000e41d38633e22a1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/Document.cs",
+    "sha256": "851f67727b6c19657ab945372c9c5d71c5db2e59fc7d30a1c19200ac2775dae6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/KnowledgeAttachment.cs",
+    "sha256": "9f621c63844a0bf718e6a9be6c9b38bdb283f68d17092a01dfbff450939defb6"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/KnowledgeCategory.cs",
+    "sha256": "94a383a561a5775a0bd81696c0a2c303045996f8ed0a286f7977bf12a060d40c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/KnowledgeComment.cs",
+    "sha256": "24d362c4c26b3fd8aecc73f9c628c87fc139e181ddfa3594e12319684a0d4a11"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/KnowledgePost.cs",
+    "sha256": "f7b2d6df16af82f0c2cb040cead491fbde7cdb045487f7c200157ddfb8bb8cae"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/SlaBusinessHour.cs",
+    "sha256": "e9fd0353e2e682d465ce4b7aec088422a6280c16792354527cfdf588564f7f00"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/SlaCalendar.cs",
+    "sha256": "2327522bc653832b79f8f876780db5b77cf46f01bfc1e6062828b8a7a5c1ae65"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/SlaHoliday.cs",
+    "sha256": "d2445e2669967da25d4cf638b52c1aca31d678762ee2158647b0e65da4486e2e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/SlaPolicy.cs",
+    "sha256": "788999efc4cc6c931632583d83524c35e2e96293365f83b9d7d0c7f139512e3a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/Ticket.cs",
+    "sha256": "4f7efbc30768171804b72e76f4ad079dfc6c11c90565c64fe2e6f4247f07413e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/TicketAgent.cs",
+    "sha256": "ff8eaec4ad68c8c6e4cb1e6eb6b76119b5e3b7b4d9fcb68afa1d84ee6e2badde"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/TicketAttachment.cs",
+    "sha256": "0ee001c83bc466326f3d97b7d033afe27e0c5ce3c76f10594d24a6214d1430be"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/TicketCategory.cs",
+    "sha256": "59ba20a011771a24aec42ca23270222ff30a191836a16504dd790b9ae70c6bd4"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/TicketMessage.cs",
+    "sha256": "02d93e309a4bbdd8d8a1913f9ba48e0cfbc6f8a9a1611efecdc7b45cce5c75d1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Entities/UserDepartment.cs",
+    "sha256": "6f248f58a573668bdf13f579fa4aef76104d80cdc90e884ead53aaa2ff12c152"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Enums/AuthenticationMode.cs",
+    "sha256": "9b1c9325651516be923b859c9775f2202559d9ecb22b71ffc2d525c909ba9e6a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Enums/KnowledgePostStatus.cs",
+    "sha256": "343b4d87d6969ccae8661fab854e2ca4c13ebcfa0f7e955599680101f2ff7752"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Enums/KnowledgePostType.cs",
+    "sha256": "cb6818378fe035e0f17622eba795c0491572f5a996202e8f40b1866ce53c0d39"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Enums/TicketPriority.cs",
+    "sha256": "d86673d68ba3408483e8fa5dc85dd7126f15e6a818e59a601b2988ae96d7043d"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Domain/Enums/TicketStatus.cs",
+    "sha256": "c2be851984e79d2b02cef91a236cb7f9f5c47d58a669db4a0107d014aa54dbfb"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/AppDbContext.cs",
+    "sha256": "18dac1071b549bb11f5c5bf9e56a07a5e6f963fb7225611bce2d6f12b5d10a8c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/AppDbContextFactory.cs",
+    "sha256": "0018c6dcf44badf48d4573db8d910a3c9b5bfb55eb77aa467ebf6e3e8c59cfa3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/AuditLogConfiguration.cs",
+    "sha256": "b9c3d62e7b5b099ae1f5420e5e6a4a4eb9ad8d11c5854d60d28dd13b82da5e77"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/CheckListConfiguration.cs",
+    "sha256": "73e1891416e178de521d1e8206bcf4b846fbb6c879b0b593812e01be2519b93e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/CheckListItemConfiguration.cs",
+    "sha256": "0ed9bc4f3016df7aa0c437ba28537844b4e3f2adf5eb0de96a1d3fa830733b98"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/DepartmentConfiguration.cs",
+    "sha256": "f5d1199468b3b9d401a3e8b97f56f9631fe4076364488b29627750337012dd96"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/DocumentConfiguration.cs",
+    "sha256": "6d028795cc9d50cad1772c252fd5ab51fedb49f079fbfb65a4edf50a32e4bb92"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/KnowledgeAttachmentConfiguration.cs",
+    "sha256": "11445b1e9ada16394d9994b14718c62959cd9e6bde6c08e9ebbc9457546928c7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/KnowledgeCategoryConfiguration.cs",
+    "sha256": "af806fb84e7e5c84c357a7323ed87b7d29afeca15c5056e787914e8d7c41591b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/KnowledgeCommentConfiguration.cs",
+    "sha256": "3466bb816bc82c333679c4dfb918aa4230101d0a24bdd26ec141169abf6e6e00"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/KnowledgePostConfiguration.cs",
+    "sha256": "520824ee1eab5908862b727062f57695af83d4dc2935dd58c72bd0f4eefd08ec"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/SlaBusinessHourConfiguration.cs",
+    "sha256": "de00c27dcad1d5c857dee08586fa0ae3b9c3c4ee4e5fd4be28e3b21abfc607e1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/SlaCalendarConfiguration.cs",
+    "sha256": "7a42025dc28d5533ce144c144c66e3fe4783100d34e5305a63e24220cbba0f39"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/SlaHolidayConfiguration.cs",
+    "sha256": "6e5786039a5e2d2a81a10b0ed7d1e16c8990044a93e29e480db1cdfa0076eff8"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/SlaPolicyConfiguration.cs",
+    "sha256": "cc9bfc4cdb80534576483727d1c52542f25e3d3b8af47f84a9931f3b7ebdd548"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/TicketAgentConfiguration.cs",
+    "sha256": "bdca8d7703e9c1870db987a1fde1f80aeddce3912c1560425dc7ae5f53f607f3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/TicketAttachmentConfiguration.cs",
+    "sha256": "5a4446e995a5ce8f17b2fd71082be0658410d250d142755295b0477581ef584c"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/TicketCategoryConfiguration.cs",
+    "sha256": "529774b9777d0044509108f540d876d1cc5a5083527726e630e41fc69999fa50"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/TicketConfiguration.cs",
+    "sha256": "90ca018edbc64c79331d20718c4b80c4da290d32d54c996b4f7b012e8035c8c1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/TicketMessageConfiguration.cs",
+    "sha256": "ffbfc9e6f6d1b4f42514bc3dae730ca5a70d56405f9a2028500954537099efdc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Data/Configurations/UserDepartmentConfiguration.cs",
+    "sha256": "1cfbd09fb35d04496529de2f03cf835e7bea181a54f4f3c0ddc50432b4c81a5e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Email/Helpers/EmailTemplateRenderer.cs",
+    "sha256": "14bc4b35716760b7c0be57e9805b4998b593d5461c0539108e6b5b83a0484130"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Email/Queue/EmailBackgroundService.cs",
+    "sha256": "b19ccaea21bf5fbec3458d29566ac3c21ab76ae3e3a748bc8fd1c6925a17320b"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Email/Queue/EmailQueue.cs",
+    "sha256": "d92c828bb98296b8b7e0c1a16041776e273f51a250274a818c9eabb1f148b6dc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Email/Queue/EmailQueueItem.cs",
+    "sha256": "82cdc6a5fedc480943173b018a6ab453d961da386d7a6276fb604ec36cda3890"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Email/Services/EmailService.cs",
+    "sha256": "60b5953f74538e3875ea2533bb1af7be26c547903e12c29ab978e8f852ecb4d0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Identity/ApplicationUser.cs",
+    "sha256": "c71fbb0b1e3add9ba758bf201c5450020c5cbdbbcf8fceaba63f744168536a87"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Identity/CustomClaimsPrincipalFactory.cs",
+    "sha256": "12f7820d0356492fc180ef740a87b263406a12eb4e6a5c8bfca9869304bffe25"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/AuditLogRepository.cs",
+    "sha256": "9660f4574e64ea5865bbd565c20248f62877380e1a49f03b49718ce44de6610a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/CheckListItemRepository.cs",
+    "sha256": "248136ea02383dc5e733b61cdd090b5f4d5456abb74bba28317645d52362dd59"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/CheckListRepository.cs",
+    "sha256": "643f89eec828ee2c916951695c1b5268c58d4e11e18c6209544aac9f36b48ae1"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/DepartmentRepository.cs",
+    "sha256": "a4e7c24aa9ba907c490de4caa769ff4483456943b9d0290a68b23831cec110bc"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/DocsRepository.cs",
+    "sha256": "6befdcfbde257566750404846c3492a03a4cafed8c63b798010443d9e5345c72"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/KnowledgeCategoryRepository.cs",
+    "sha256": "7532dd4230088379120811ce396b2a31f22c7f9d952cb8e642f0a749eec0d5b2"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/KnowledgeCommentRepository.cs",
+    "sha256": "dbd29cbf20bd5ec33a60087f975c272250900264cadf15a4312a6936dfb17093"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/KnowledgePostRepository.cs",
+    "sha256": "016cd414b54f058e34c1ad994c43a369330639494751a45f908af0a6b3822ed4"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/SlaCalendarRepository.cs",
+    "sha256": "7a426eeb1166ed182792f64c19cea99fd27b026ac1de09d9e845ba0df07acc5e"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/SlaPolicyRepository.cs",
+    "sha256": "9d48ccb59b5e051ade5668d515b13434f5344131dd9c7329d26ae52fc85998c0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketAgentRepository.cs",
+    "sha256": "8f08f7900a039f1cda39aa42a5686e95a16625753bb5f32ae1aacb780708b587"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketAttachmentRepository.cs",
+    "sha256": "27d24fcdf26545cd3985efcf74816e0b45f6d991f9c1041a0a6c98935b7370fa"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketCategoryRepository.cs",
+    "sha256": "d25db4e1162d36e19440def2082590f0cb3db654e6a092e07d68fd5a15edd593"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketMessageRepository.cs",
+    "sha256": "0d11b6373700d538401cc14ca19ab8d97a999bcf806b4d064f121dd8cb1da9ab"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketReportRepository.cs",
+    "sha256": "a09f8e1321ec09608fcb1a0ddc13f511e7c95ef877590f3e0756e129cc3db860"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/TicketRepository.cs",
+    "sha256": "41320325d54427e8359ad19b53eea25d8be19425e6d4db89f44c577a7849368f"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Repositories/UserDepartmentRepository.cs",
+    "sha256": "12f9f151355bf6a9f552043f3b586a10c06e27d7ee8ea72dfaf6b87d8c8565a9"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/AuditLogService.cs",
+    "sha256": "7b9a866f873a8edff5393b956718b3a6f791aa4393826393ceaa3e223ae841e7"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/AuthService.cs",
+    "sha256": "3a3e2d697a2c42a6b7c2a4fae0b8d7843ac79006c0dc3b2fa9ef5ec6c619106a"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/CacheService.cs",
+    "sha256": "7a8ebc327499327b98597cf145311f26c6c4a175f88c609c5057130b20b9b925"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/FileStorageService.cs",
+    "sha256": "9272813b42aeadee0cbc7d495801b17967290e706b5cc5b4a198507c257bf615"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/SuperAdminService.cs",
+    "sha256": "2b89e174cd81674740ae4a0da3f501cb3dc4840a6a7070f6e9b0e668f864a714"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/UserContext.cs",
+    "sha256": "a319b09c85934001b600e922015ebb1045d9c5c1fe6efd3d5d834220eb4262a0"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Services/UserService.cs",
+    "sha256": "f99f63a3277afeaad5b85c4029c1069724b2d14c167562d2bd1f025bb27df6f3"
+  },
+  {
+    "origin": "backend",
+    "file": "HelpDesk.Infrastructure/Settings/EmailSettings.cs",
+    "sha256": "999b9f5bfb1e27554e3abf4aad0e8734145693d1d73a22d69f6eec4285953a81"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/router.tsx",
+    "sha256": "2efd6792d3ff9891b72776b754be21acb59b414c05a95e131e7bd7191013d94a"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/index.css",
+    "sha256": "ed56ae2b5595358bd2025ca2d24188620da83a088190bfd3d4f0f1587b6cae20"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/modules.css",
+    "sha256": "0db0dc7413f2f2775a2ddb4c93464496047353e356c232768e8f378a0f649c37"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/reports.css",
+    "sha256": "3e458562f5a6b5ff249bef24cd43cf01f6fbeb953f46ed8f868e775158f1a760"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/roles.css",
+    "sha256": "31c630db38f10a709f546b5176b8f762da408948e9ce5a29981efe059e6ce0ac"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/tailwind.css",
+    "sha256": "2d7528299f78768ba780395b1bf56d6abaa92e80de95831959498f74a26666ad"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/app/styles/tokens.css",
+    "sha256": "1bb51cbecfe566c31a82a35ef85afe639bcf68b40cce3c0a6fd82b17745c4621"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/layout/AppShell.tsx",
+    "sha256": "d15d10f0f85c7979828481573466271fd7d131c09070adc6c296f590720692cb"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/ui/Primitives.tsx",
+    "sha256": "64e25fc89b6edfdf7f272c7e53e5b765be22fcab2b6a377d2a42d51ec1ffbebe"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/administration/CatalogsPage.tsx",
+    "sha256": "5dbebacc677f70064adf95b216866f23f49a07f47daf3339b7fdb535e43b51f1"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/administration/DirectoryPage.tsx",
+    "sha256": "d3a5dceade18711af926755f575ee61286bc8cc7f0713045ebd573097d818049"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/administration/RolePages.tsx",
+    "sha256": "edf4b27815186ef6303e017fef53d02e6ce1096c176de487129e344f7d2fc6b3"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/administration/api.ts",
+    "sha256": "251d210f3b2e9e789227cf903d5248491c84a2db99df3a2d0929fae48e827a0d"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/AccountPages.tsx",
+    "sha256": "beade2bf24f189ed034b82c474ea7e13d1248b23a9e8abf40be1c777e857f92c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/AuthLayout.tsx",
+    "sha256": "c5ca64c6ea1fff49b544cd92857a277cd9a1830b72b55a753f8222d68b28de17"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/LoginPage.tsx",
+    "sha256": "9c1f2ff21e3053479b0f875c42f601d2648e46b3cac8c674b3f6a8400a0ccd92"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/RequireRole.tsx",
+    "sha256": "c764b76a607db49bd9677e5e17a6b0ef6406ee42da78287b721fc7555d0f140b"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/api.ts",
+    "sha256": "79af2adafe55adf651b9908a477a7cb55403eb683307f5ee2a34344a80d65dc0"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/permissions.test.ts",
+    "sha256": "a5ec72a2e81da7ad72a0744c508cd5890764b98ddffc07f939c4e47f49a15a58"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/permissions.ts",
+    "sha256": "d62c1b2b1ab7e90c3a9cb3c9b2711097f87c156a2eecc1b0859025fdc2552b77"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/DashboardPage.tsx",
+    "sha256": "5362e23725a7c2e37d5b85664c92fdf9cbeb1145b9b4ebfdc94581698ba688ee"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/DemandDetailPage.tsx",
+    "sha256": "0e12d833bab1eb871ce6691209c079b11f67db24d6f2ccf58fefdc94205293d9"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/EditDemandPage.tsx",
+    "sha256": "b9433a4a5a6299d6c6afa8fdedc403f2d0125842ecde8c2446b40b2df533ee9e"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/NewDemandPage.tsx",
+    "sha256": "0fc2f6b1aeeda5282dc046a12893347aa7310e63cde511e8b7778097a1082050"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/TicketListPage.tsx",
+    "sha256": "dd3bf80183b79bbdf2b6ce59f413187cd46de6f78b57d0c92ec9f95af3775a0c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/api.ts",
+    "sha256": "7a4500dfaf11b13fed79ef66906e93e7e5084681b2cc1279090b6f44f33ce779"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/components.test.ts",
+    "sha256": "220e014a60f4349927d439100b4a596fed61a2b33a4c0217c127f4dad2d54cfe"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/components.tsx",
+    "sha256": "f14023473a3c2afcfb0c24038c77aae6ebb463eec857e0901ee3e4a98688ea80"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/demands/demand-detail.css",
+    "sha256": "8f426218fb5a546dc26d7e18763288018a7b4a09d9d6120342d7870b080126c7"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/reports/ReportsPage.tsx",
+    "sha256": "68bd50c8dae2de3f226c16b54e1c00ef27a79dc0beb62f6fceae268403db64bd"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/reports/api.ts",
+    "sha256": "66fbb9ce3334f6b5fad144e1269a279dcbdb6a6e01b74b934fd7eb9887975899"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/resources/AuditPage.tsx",
+    "sha256": "a2a456c81ebc75b431e88c386264e884111c97acc9230c6399bc550ef427dc78"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/resources/ChecklistsPage.tsx",
+    "sha256": "f420c53eeed9815195f61342d9aade4a36e8be3a3d411daf295c7ef3cbb30494"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/resources/DocumentsPage.tsx",
+    "sha256": "b0f192c00425545e7b509b47ec0b047c487c9e53fbbd23b9bf3afeba9ed63c42"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/resources/KnowledgePage.tsx",
+    "sha256": "8a2679604aab56795e885c62741b7a8e61a59b95dd896f255a979dfc5a0af3ef"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/resources/api.ts",
+    "sha256": "06c86f16443e03940e59c17e06cd04d6271b2e8e63140c06bf80b4296ba9736f"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/sla/SlaPage.tsx",
+    "sha256": "77616257c98a7143e470b9f4a61bf483cce6aef8a85b4e6ddb76e6ddd08b078f"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/sla/api.ts",
+    "sha256": "825cdf65d9d290aaa955afcdaca14e404cf65f97fb8c71cd5e011bb5123e1b98"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/api/client.ts",
+    "sha256": "84729924666e52ec1df62988fbe170c050b063bf47447576a2c49c1b81e10269"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/main.tsx",
+    "sha256": "c2979cbafa7a9b65fc906605125e7c31c94a4ec2e974173993182156956f0585"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/types/api.ts",
+    "sha256": "723bceb111138c088b4eb7933aec4e410f12121f0d91bf4a9694afe7bb3c0d96"
+  },
+  {
+    "origin": "frontend",
+    "file": "vite.config.ts",
+    "sha256": "2e22169dcf47cfa4b5ed63f65ff54d622a6f8d6927e2950e216ada60ae1d1566"
+  }
+]

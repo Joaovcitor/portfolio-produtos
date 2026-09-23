@@ -1,0 +1,507 @@
+[
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/AuthController.cs",
+    "sha256": "f60a77b6a69f74c8688e5e6c3023f0b462dba39d8159f07eaedecbab3c925fab"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/QueueTicketController.cs",
+    "sha256": "532b8adebecab09f8f8fe0838ea5e1325164f53febbe8d89a8fd6d7cca47e796"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/ServiceCounterController.cs",
+    "sha256": "10bfe226b550b41c64f8141e7aefcf882e9ec0aeaf548813728d00d5f61e744c"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/ServiceTypeController.cs",
+    "sha256": "ad36985ab2dc60eb38f7f2848dcb2b416e3bd8c439a8da56ec33c7eb50ddafaa"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/ServiceUnitController.cs",
+    "sha256": "5ac2faee303d9e10138c91ebf04865fa191587f140ec4f1ac08c2e05955e52ad"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Controllers/UserController.cs",
+    "sha256": "fc8570e1049387ff22465910ec8b2b8428f911d73867a29e720eb18856e20a39"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Converters/EmptyStringGuidConverter.cs",
+    "sha256": "a014db27b33f230197bfaa897052b52c3574be2beb33c950900ce15f5f33b9a0"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Extensions/DependencyInjectionExtensions.cs",
+    "sha256": "b17ebb4c2d9523bf846203d8e99447cbef5f0761d65b83165a6e8700e1beeb34"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Extensions/PipelineExtensions.cs",
+    "sha256": "70714abf461a2b652f659d6d86a61bd1ceae5f2df3db48a46eb4b51b51af6eec"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Hubs/QueueTicketHub.cs",
+    "sha256": "1ea42cae0ac8fe0d748798731cc897bda7bb618d75333948d0fe7ca4478eb513"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Middlewares/ExceptionMiddlewares.cs",
+    "sha256": "a6898bed8116818c33b3d34916d66b63f38482bab2b7e4c4eadda420175a6e65"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Program.cs",
+    "sha256": "cafe72508db318d77eff39f8029ba6ebac8aa4b495d45afaa76c6a4e77e8a8eb"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Seeders/DevelopmentDataSeeder.cs",
+    "sha256": "000a2baaffbc6d091cfb1e9caa8f13bfe72993cf0973f551e0a5146df201b2c1"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Seeders/RoleSeeder.cs",
+    "sha256": "77c9d834499d9cd7c7de51ab3b8c6b9a252ed04ab3da8fc9c3d47ce6cf968b69"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.API/Services/TicketNotificationService.cs",
+    "sha256": "c657ff4b163803db2c972ddac9a000ad0d913a7fcf7217113fbedeb803a12522"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/AuthDtos/LoginDataDto.cs",
+    "sha256": "bde3e0d0c6cef4cf9376bfeb5773cac3458e4fac2acf15a2000eef5938a8d6d4"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/AuthDtos/LoginResponseDto.cs",
+    "sha256": "ba3bf2806f718175a38f13192fe15d88174f27f1b65b62a466e4c88e301e49b6"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/AuthDtos/MeResponseDto.cs",
+    "sha256": "92e276f8723d80abb840d534218183fda126817040f0a663ef7978b931b36eef"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/AuthDtos/RegisterDataDto.cs",
+    "sha256": "94383533a700c8c844759711699ae25c0ba30e4e209c6ab3750130cbf89978b3"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/Pagination/PagedResult.cs",
+    "sha256": "1c850fe49c5c154b9cad6edc591a61df334bd1358be95aeae5186cdedac39963"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/Pagination/PaginationParams.cs",
+    "sha256": "7f24a90ebea07737203e0398272602524f4d367c219eced8e702ae1dcbf7dfc5"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/QueueTicketDtos/CreateQueueTicketDto.cs",
+    "sha256": "b2b240f56ddb94903373dd777d114d37bd4d314e46bd7bc143d36f238513d6a4"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/QueueTicketDtos/QueueTicketResponseDto.cs",
+    "sha256": "3fdcb5d7dd3dc1cc4e9fab36f0cac3fa7f5da7055202cfa55599c2e200cf450a"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/QueueTicketDtos/ReallocateTicketDto.cs",
+    "sha256": "5690473a8b646153b4e4cb14e3f134bf829ff1e8c1c5a0cad1a2b99aadd9cfa3"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/QueueTicketDtos/UpdateQueueTicketDto.cs",
+    "sha256": "55101a59daff410bf72eeaca47014079acba49aef9f84675e950ac2178602a13"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceCounterDtos/CreateServiceCounterDto.cs",
+    "sha256": "4ed74d2f7b4bd8865939a5a60a9be6e00174a77b2f7253a5df003292510db240"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceCounterDtos/ServiceCounterResponseDto.cs",
+    "sha256": "a0405c6e4357cd5a666697798723b3f41da8dcd186b310163aad19ff25f72af3"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceCounterDtos/UpdateServiceCounterDto.cs",
+    "sha256": "a391ca06ba50d505de4e7cc16761e654354d5a44258a7101767b3f0b9d50ceae"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceTypeDtos/CreateServiceTypeDto.cs",
+    "sha256": "13695321f5a4e7e134d0bf3a5782a1d44c6e273593239a28b74c49771bc47802"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceTypeDtos/ServiceTypeResponseDto.cs",
+    "sha256": "8c423e8db626e9901133f79580a9a2d0995fdce376f745335cc79ccb143a1d90"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceTypeDtos/UpdateServiceTypeDto.cs",
+    "sha256": "ae1ebb8cb45b8e23c29d0fab69b1e32993bed8a318728b1f478266de87ea1798"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceUnitDtos/CreateServiceUnitDto.cs",
+    "sha256": "9e191e75e489a239e954fc40495cebdbf240a39c808e9befd60a76293f825756"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceUnitDtos/ServiceUnitResponseDto.cs",
+    "sha256": "79939898b1e39f57321d03322c8d46a5bbda0450a78a665d935b47aa51ba95ab"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/ServiceUnitDtos/UpdateServiceUnitDto.cs",
+    "sha256": "27e56de72af945802028ac1effeb310e3d582695cd2899970618bbb99c3f1abd"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/Users/UpdateUserDto.cs",
+    "sha256": "382862f5a7df7d33661334f1a5a7ff4adc0e6666f989d452447d0c7448ae95f0"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/DTOs/Users/UsersResponseDto.cs",
+    "sha256": "c53f641edbd34114ddafb6fd781a1d8d6653497131faca9895b66ed3330b697c"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/AppException.cs",
+    "sha256": "1d4cd7bb3f080c370d745e646acb633d3ea7595179fabec2c5d0812b86e9d59e"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/BadRequestException.cs",
+    "sha256": "1c1984cbc44e7083914d515905278a9e873e4944c756b9a484133ed9f7344e53"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/ConflictException.cs",
+    "sha256": "cfe1b1da91d76e23f809d1fe6f5639f735176b37b57007b2589ed525ef5f1775"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/ForbiddenException.cs",
+    "sha256": "ac6a1829714d60264be5a90eb2666cfbc1c1fc0c2aeb8c076c6ebd68099a3f2a"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/NotFoundException.cs",
+    "sha256": "b8e6f5b0a9bddb3f1ace7399880d57ef1eaf4d95cd80e736cafe1ac4bea62044"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Exceptions/UnauthorizedException.cs",
+    "sha256": "76c19fb130891ae5765e652dc77db1225cd145c0748d8e72263d0f950fd0bfe1"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Repositories/IQueueTicketRepository.cs",
+    "sha256": "619c7801f66243428e1e03552c603ce19fd5b7bc4d6f97f734b2c68f414dfa40"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Repositories/IServiceCounterRepository.cs",
+    "sha256": "9a3411a2b2ece8e2c38a8923dd898119c187fcab4281c82d5ca658c065a62a22"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Repositories/IServiceTypeRepository.cs",
+    "sha256": "3519306039a0a0531461b806936f8e47a2adedbfb9e83e639bb2923fddefb397"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Repositories/IServiceUnitRepository.cs",
+    "sha256": "ed99135bbf23d2ffe769e08fa1bb7ba0abfdc0c774aa6f5ddeb17d4155d9dabe"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IAuthService.cs",
+    "sha256": "25255126995d4d348dd22992caee899af3bc4f1d67f3582da96f38f3ee5df7ea"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IQueueTicketService.cs",
+    "sha256": "5d50aedaf74235647d1cc27822002fcfab4aded8d86976f28ebe78f08866c74e"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IServiceCounterService.cs",
+    "sha256": "a5f893200706eb7569dea66bb7d991c338b52db4491fd81674cf3283ac2d6c48"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IServiceTypeService.cs",
+    "sha256": "679bde4aaf0917e4579bd6f6051d9cc8c2a3cf87a57a353de3fc9e7418f80f64"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IServiceUnitService.cs",
+    "sha256": "f0eff1b617b4a65b4c11bf0553cfbf82a3cd6cec76127f40ebd06fae2777b140"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/ITicketNotificationService.cs",
+    "sha256": "5f5ed74ed4d9f10065acc4871a1387bc6b2f4b3275d0a694892b546918fe4e81"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IUserContextUserService.cs",
+    "sha256": "ee63d6e13e7a8e5eb90efbae6b031a52f9d690895fd8fd9a5971dce6fbd65727"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Interfaces/Service/IUserService.cs",
+    "sha256": "9da607dcc977c27676cf5197d66e9d18de4d204eeca08430302581e7e8c9ecde"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Mappings/QueueTicketProfile.cs",
+    "sha256": "393cb9859aa0ecd32cfc0f4856fa73e37460782173672d72e4aa642aa1141f4b"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Mappings/ServiceCounterProfile.cs",
+    "sha256": "3383a649391822a2da3e906698b6be1a1ff99f7b8e4d96a7a69d4abee9210ea8"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Mappings/ServiceTypeProfile.cs",
+    "sha256": "22ceedd4d07082ed19a0fc3a1b55568c99d002f996391b9d592d2b425bae4b28"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Mappings/ServiceUnitProfile.cs",
+    "sha256": "7272536bf980a88eb998052fe78aea18710b85f7664b2683a262fa5b195a0b42"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Services/QueueTicketService.cs",
+    "sha256": "379f2b0bf1734a3060547c5cfbe948333917740d7738e8b9c629785de0f9ed4b"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Services/ServiceCounterService.cs",
+    "sha256": "e50eaf80eb14c0641774658ab6edb6311a74976c521b77f88adbd6d1c302fdd3"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Services/ServiceTypeService.cs",
+    "sha256": "017dbc72439616d7ec2cf1999eeb2bf77712cecc2c20987dcd63496a0d21c764"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Application/Services/ServiceUnitService.cs",
+    "sha256": "7647ba587bd7d1850bd751cf4049c2f4f67b1badeadcd2c45136c18ba3e2a275"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Domain/Entities/QueueTicket.cs",
+    "sha256": "b38baf61863aa6143d6a8ef4622b5e65f0b75f12a2746f6f414cd06631d80669"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Domain/Entities/ServiceCounter.cs",
+    "sha256": "83f1a06600e3400b1861d1ae3ddcf49f90c40edda54745c1c88e0250fef49c10"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Domain/Entities/ServiceType.cs",
+    "sha256": "fe4d3c985a015ee805b76bcff344ba33af65814c943bae7d5d02e8f4bc82b26f"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Domain/Entities/ServiceUnit.cs",
+    "sha256": "86b6021d205387556b09eb6186d8649e6fd80afd77a0a75eb041041ea6431920"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Domain/Enums/TicketStatus.cs",
+    "sha256": "a14a52cd7a7df54cb86f63bd0ede76b79add4809211ed6a082f847b30946606b"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Configurations/QueueTicketConfiguration.cs",
+    "sha256": "d2bf54ada74274618bf175d81e682b6662a6a2df9622b1b92a5be294bd5bcb8e"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Configurations/ServiceCounterConfiguration.cs",
+    "sha256": "32b0951dceb0f1901af856a77c13aa6ec4107166895b24797d1f1183396c30e2"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Configurations/ServiceTypeConfiguration.cs",
+    "sha256": "bd3ac77a81c064821d4f38f35e64e01a9958c8d18779b6c53fb2958e2b66fe1c"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Configurations/ServiceUnitConfiguration.cs",
+    "sha256": "24b104578c90adcfe179593f732de96b8a4f4480665a7bb474074b01c631cf02"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Context/AppDbContext.cs",
+    "sha256": "d99adf6d4d93041c44692629c708d56bab8c0cf453294fe85dea218632117c94"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Data/Context/AppDbContextFactory.cs",
+    "sha256": "bd24b35a6ea6beaba2aa70935deba90b0f07cfb32c6d3896e4c9bd41c64f58a1"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Identity/ApplicationUser.cs",
+    "sha256": "5c993e6e0559f48c0471bce9d04c0b1912caf5df946aee194ee11db2d209e7f9"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Identity/CustomClaimsPrincipalFactory.cs",
+    "sha256": "7cb8779a28e17be0de7cb1e939e8521bdfd0c2fd086af2d1b476fb031bc73aa2"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Repository/QueueTicketRepository.cs",
+    "sha256": "db49958e1c479bbf58f73d7d8c46cf7e1f1058a27066b2b8c1a72e6036cb79c1"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Repository/ServiceCounterRepository.cs",
+    "sha256": "c33db4078776f8fb663ee67c81f2ef488f4affdf032108d2dcb55b6afd8a6c95"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Repository/ServiceTypeRepository.cs",
+    "sha256": "b87c521a7788c36881e1fabbcafc2180b92d0477320fd5bde346b3c0cb679fca"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Repository/ServiceUnitRepository.cs",
+    "sha256": "2f22ee5310c9d7afddca4e111de9ebc883b9f8fc72297ea1a998bea407d6ccc8"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Services/AuthService.cs",
+    "sha256": "a631470f00f5ef307e7f170eee186d1152a4d1d850c85e0f2e1060e1d523867e"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Services/MemoryCacheService.cs",
+    "sha256": "63aa2de179ee215430f91fdc3004896e2a587b5dc109cab03cd7ee756450b01c"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Services/UserContextService.cs",
+    "sha256": "3d6c04acc84dd56b3ec9a2f584cb30e221748d8dd2564781de906aa8caa9492b"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Services/UserService.cs",
+    "sha256": "06f3dbc813078dc6b4e3a798e7e986fc1301c549df61b73353c7778f44bc5f00"
+  },
+  {
+    "origin": "backend",
+    "file": "VemKa.Infrastructure/Settings/DevelopmentSeedSettings.cs",
+    "sha256": "39e8f91980f02c16dda53f3e8eff59acd3af12aa6664bfbfbc1271570af03bf0"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/brand.tsx",
+    "sha256": "5947b81750a1b3b79dbc4625e372c2c343a72175d964ec79c9183066fc0920f3"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/states.tsx",
+    "sha256": "6e8e7c1028ae35bef5b83c885c014acfc7708ee6b4d0f63de8315476a6d0a663"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/auth/permissions.ts",
+    "sha256": "33f488d8fdc019ae7ec31fe19b860ce3b92285602509dce28e513cf5fbaafe02"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/display/voice.ts",
+    "sha256": "45e41c3181642e4f149eab2620bce78af7cc18512b5815bb100aa26971aedba2"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/kiosk/KioskPage.tsx",
+    "sha256": "9673a49595b59565a61ea3ee082e5a5d796d6cc29bd526e756d7cb4dc726d24e"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/kiosk/kiosk.css",
+    "sha256": "a85ec66685d39d377337a56792e954af4dd0ffb564a4dd9af263e86e60200458"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/features/queue/signalr.ts",
+    "sha256": "40032a41fce814b2b24ed8cb83e86c07290307e5c75666386132ebc6ee42faba"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/api.ts",
+    "sha256": "6beb74e1000cbbd3ced062e7d921acb89daa1193d489428b077f09b1b220bc3c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/format.ts",
+    "sha256": "2b351aef765db97da25cdcc9b0972c6f944557da033ebf219af8d08c82415e40"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/i18n/terminology.ts",
+    "sha256": "ac283bae2bced617e3506e8ebd6f44296a658cadde702f3ad3f71fe28fb5a97d"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/main.tsx",
+    "sha256": "b6e1c728ffe028f965cc8e008f6bce959f83ad7e79957ef7a843612f53dbf9d8"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/services/vemka.ts",
+    "sha256": "91447ec415482db81c635896544c000a5ea7f99784717f962c00dc49f5980c86"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/styles.css",
+    "sha256": "c6d5a020be2a6ec7686dd0561753f3c35999b705aa1c8924afc111e4ecc4fc48"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/types/api.ts",
+    "sha256": "88a6b6a3d100f0bf9411c4107eaec93fb1486e08bcf47ef661cfb5b0251b7938"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/vite-env.d.ts",
+    "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+  },
+  {
+    "origin": "frontend",
+    "file": "vite.config.d.ts",
+    "sha256": "4b96dd19fd2949d28ce80e913412b0026dc421e5bf6c31d87c7b5eb11b5753b4"
+  },
+  {
+    "origin": "frontend",
+    "file": "vite.config.ts",
+    "sha256": "c5ac000d65adcb7fc7d641e09e067588db3e3e3773af5006c8c499b915656fae"
+  }
+]

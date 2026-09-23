@@ -1,0 +1,315 @@
+{
+  "pages": [
+    {
+      "width": 1920,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1920,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1440,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 768,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 768,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 768,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 768,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 430,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 430,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 430,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 430,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Portfólio | Atlas · Domus · VemKa · Ordian",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 390,
+      "route": "/atlas",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Atlas | Pessoas & acessos — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 390,
+      "route": "/domus",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Domus | Cuidado & território — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 390,
+      "route": "/vemka",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "VemKa | Atendimento & fluxo — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    },
+    {
+      "width": 390,
+      "route": "/ordian",
+      "overflow": false,
+      "badImages": [],
+      "missingAnchors": [],
+      "title": "Ordian | Demandas & colaboração — Produtos digitais",
+      "forbidden": false,
+      "font": true
+    }
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "interactions": [
+    "Busca local Atlas: resultado e estado vazio",
+    "VemKa: iniciar, concluir e reiniciar",
+    "Ordian: conclusão de tarefa",
+    "Recursos: abrir e fechar",
+    "Menu móvel, navegação e voltar",
+    "Download do PDF válido"
+  ],
+  "result": "APROVADO"
+}

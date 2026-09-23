@@ -1,0 +1,653 @@
+{
+  "Atlas": [
+    {
+      "name": "AntiforgeryController",
+      "file": "SIMGEP.API/Controllers/AntiforgeryController.cs",
+      "actions": [
+        "[HttpGet(\"token\")]"
+      ],
+      "sha256": "4f2e1831c6abbfa49b9f2c0e60b93c8ffc067adb1be8a0949bbb21c312961a6b"
+    },
+    {
+      "name": "AuthController",
+      "file": "SIMGEP.API/Controllers/AuthController.cs",
+      "actions": [
+        "[HttpPost(\"login\")]",
+        "[HttpPost(\"login/code\")]",
+        "[HttpPost(\"logout\")]",
+        "[HttpGet(\"me\")]",
+        "[HttpPost(\"register-admin\")]",
+        "[HttpPost(\"register-registrar\")]",
+        "[HttpPost(\"send-code-to-change-password\")]",
+        "[HttpPost(\"change-password\")]"
+      ],
+      "sha256": "74562d7c86fcde88c79ce6d194b03df21ae28a008047919fc835d72d2d22246c"
+    },
+    {
+      "name": "AuthorizationController",
+      "file": "SIMGEP.API/Controllers/AuthorizationController.cs",
+      "actions": [
+        "[HttpGet(\"~/connect/authorize\")]",
+        "[HttpPost(\"~/connect/authorize\")]",
+        "[HttpGet(\"~/connect/logout\")]",
+        "[HttpPost(\"~/connect/logout\")]"
+      ],
+      "sha256": "d12aca369a41cb86f312fabe89b7fb1242a987c8786462e84fe7600ecf861d96"
+    },
+    {
+      "name": "EmploymentRelationshipController",
+      "file": "SIMGEP.API/Controllers/EmploymentRelationshipController.cs",
+      "actions": [
+        "[HttpGet]",
+        "[HttpGet(\"{id}\")]",
+        "[HttpPost]",
+        "[HttpPut(\"{id}\")]"
+      ],
+      "sha256": "6d4c7fb7614fb819390f811b8ee6c24e3f8a0e19ba5109b5b0753b5b907780ba"
+    },
+    {
+      "name": "ExternalSystemRolesController",
+      "file": "SIMGEP.API/Controllers/ExternalSystemRolesController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet(\"external-system/{externalSystemId:guid}\")]",
+        "[HttpPut(\"{id:guid}\")]",
+        "[HttpPatch(\"{id:guid}/activate\")]",
+        "[HttpPatch(\"{id:guid}/deactivate\")]"
+      ],
+      "sha256": "c3dc9233269aba56341417f27427c02c45d42ec938550330d7490be8df4c2fef"
+    },
+    {
+      "name": "ExternalSystemsController",
+      "file": "SIMGEP.API/Controllers/ExternalSystemsController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet(\"{id:guid}/details\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]",
+        "[HttpPatch(\"{id:guid}/activate\")]",
+        "[HttpPatch(\"{id:guid}/deactivate\")]"
+      ],
+      "sha256": "ca0ef57d16ab067cf29ef7a61531d0b8dfdffb61d4e555afba09c3529f3832ae"
+    },
+    {
+      "name": "JobFunctionController",
+      "file": "SIMGEP.API/Controllers/JobFunctionController.cs",
+      "actions": [
+        "[HttpGet]",
+        "[HttpGet(\"{jobFunctionId:guid}\")]",
+        "[HttpPost]",
+        "[HttpPut(\"{jobFunctionId:guid}\")]"
+      ],
+      "sha256": "d395c2828d27ac9a1a8d22b1fb781a4532661dca81b98931058b4fc288c46515"
+    },
+    {
+      "name": "PermittedSystemsController",
+      "file": "SIMGEP.API/Controllers/PermittedSystemsController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet(\"user/{userId:guid}\")]",
+        "[HttpGet(\"personal-form/{personalRegistrationFormId:guid}\")]",
+        "[HttpPost(\"personal-form/{personalRegistrationFormId:guid}\")]",
+        "[HttpPut(\"{id:guid}/roles\")]",
+        "[HttpPatch(\"{id:guid}/activate\")]",
+        "[HttpPatch(\"{id:guid}/deactivate\")]"
+      ],
+      "sha256": "fb6c080ba94950ddc9f5f7d15fa895a6befc4c2650bd91d6ce90b980c2e398da"
+    },
+    {
+      "name": "PersonalFormController",
+      "file": "SIMGEP.API/Controllers/PersonalFormController.cs",
+      "actions": [
+        "[HttpGet(\"{personalRegistrationFormId:guid}\")]",
+        "[HttpGet]",
+        "[HttpPost]",
+        "[HttpPut(\"{personalRegistrationFormId:guid}\")]"
+      ],
+      "sha256": "1c3e99dce4ae58adf3b83c37360c24bc27f24b721607835017f6e2fcc95c30f1"
+    },
+    {
+      "name": "ProfessionalFormController",
+      "file": "SIMGEP.API/Controllers/ProfessionalFormController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{professionalRegistrationFormId:guid}\")]",
+        "[HttpGet(\"formsByPersonalForm/{formId:guid}\")]",
+        "[HttpGet(\"all-professionalForms\")]",
+        "[HttpPut(\"{professionalRegistrationFormId:guid}\")]"
+      ],
+      "sha256": "fd19da69532395bdc117c61fe4a394c2b03bad9e3e169a33218055b209001a3f"
+    },
+    {
+      "name": "TwoFactorController",
+      "file": "SIMGEP.API/Controllers/TwoFactorController.cs",
+      "actions": [
+        "[HttpGet(\"status\")]",
+        "[HttpPost(\"setup\")]",
+        "[HttpPost(\"enable\")]",
+        "[HttpPost(\"disable\")]",
+        "[HttpPost(\"recovery-codes\")]"
+      ],
+      "sha256": "21ce224fb492472f4614562981e2c6d2d57596f99d72360ffc1cc6d67260d7ad"
+    },
+    {
+      "name": "UserController",
+      "file": "SIMGEP.API/Controllers/UserController.cs",
+      "actions": [
+        "[HttpGet(\"myUsers\")]"
+      ],
+      "sha256": "630729cd91d1d323dfb1e9667488973df3457ffd72c2cfccdab9e37c6d39a80f"
+    },
+    {
+      "name": "WorkplaceController",
+      "file": "SIMGEP.API/Controllers/WorkplaceController.cs",
+      "actions": [
+        "[HttpGet]",
+        "[HttpGet(\"{id}\")]",
+        "[HttpPost]",
+        "[HttpPut(\"{id}\")]"
+      ],
+      "sha256": "f1d03e025bee636d8fc128f9f7406fd0f2f393ed566dcf2f30fba51890126654"
+    }
+  ],
+  "Domus": [
+    {
+      "name": "AlertController",
+      "file": "Domus.API/Controllers/AlertController.cs",
+      "actions": [],
+      "sha256": "40b9a873f7bb524936f1c3737229933315da4ff3df245b0ad23dbf7efa74cac6"
+    },
+    {
+      "name": "AttachmentReport",
+      "file": "Domus.API/Controllers/AttachmentReport.cs",
+      "actions": [],
+      "sha256": "83fd5cd0a2ab12a842f5826ecccf287629bf80a389cc5affea6cbe88e634361e"
+    },
+    {
+      "name": "AuditLogController",
+      "file": "Domus.API/Controllers/AuditLogController.cs",
+      "actions": [],
+      "sha256": "e67aa27faef78600c8304cd26cb0ad5c758b16853c0b2216e32ab2cb88b258b0"
+    },
+    {
+      "name": "AuthController",
+      "file": "Domus.API/Controllers/AuthController.cs",
+      "actions": [
+        "[HttpPost(\"login\")]",
+        "[HttpGet(\"me\")]",
+        "[HttpPost(\"register\")]",
+        "[HttpPost(\"register-admin\")]",
+        "[HttpPost(\"logout\")]"
+      ],
+      "sha256": "02162a5e0a40c73713fcd73adc5c6706dccca972d6d827b4ac832d637c8cbba8"
+    },
+    {
+      "name": "CareUnitController",
+      "file": "Domus.API/Controllers/CareUnitController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "08db6f0d1712c10888b32d9ffa1db02c73670c82f88ca481ad8afd1087a6f904"
+    },
+    {
+      "name": "FamilyController",
+      "file": "Domus.API/Controllers/FamilyController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{familyId:guid}\")]",
+        "[HttpGet(\"code/{familyCode}\")]",
+        "[HttpGet]"
+      ],
+      "sha256": "a71afdf8b65b44511df8fe758e7fa681986b12dab35b4f2b7834b911ee900bd3"
+    },
+    {
+      "name": "LocationController",
+      "file": "Domus.API/Controllers/LocationController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "a932f2d14928f286a33afcbaabadf7f6f9ff84638d414a81dd8ac836e352ef3b"
+    },
+    {
+      "name": "MotoristController",
+      "file": "Domus.API/Controllers/MotoristController.cs",
+      "actions": [],
+      "sha256": "6c457c22030a6bde332c4c16d6856124385c312608e0db4f8fd54a0ad45d939b"
+    },
+    {
+      "name": "NeighborhoodController",
+      "file": "Domus.API/Controllers/NeighborhoodController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "61bcdd77b0e223be4db3953a965a1384f98a83bfa58bfeb2e362cbd6e09881de"
+    },
+    {
+      "name": "ProfessionalController",
+      "file": "Domus.API/Controllers/ProfessionalController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"user/{userId:guid}\")]",
+        "[HttpPut(\"user/{userId:guid}\")]"
+      ],
+      "sha256": "45bd934048b2e0177edb15b94e276ac9616bb86196168eb9bba1640c7c618fa2"
+    },
+    {
+      "name": "ReportController",
+      "file": "Domus.API/Controllers/ReportController.cs",
+      "actions": [],
+      "sha256": "cdf072ab65072b61d7bb79ca6dc4aabee480f933dfec08fd5466f5254d4b9c59"
+    },
+    {
+      "name": "UserController",
+      "file": "Domus.API/Controllers/UserController.cs",
+      "actions": [
+        "[HttpGet]",
+        "[HttpGet(\"visitors\")]",
+        "[HttpGet(\"{userId:guid}\")]"
+      ],
+      "sha256": "e749bd0ba24e0ab16c7a5716a66eebb7b563f55e4d45876fb515d17b2b8f2f74"
+    },
+    {
+      "name": "VisitAttachmentController",
+      "file": "Domus.API/Controllers/VisitAttachmentController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"visit/{visitId:guid}\")]",
+        "[HttpGet(\"download/{attachmentId:guid}\")]",
+        "[HttpDelete(\"{attachmentId:guid}\")]"
+      ],
+      "sha256": "13efb9e38958344deea062f7cde9733c7ab47de402146c9a1f02de87c3a18c29"
+    },
+    {
+      "name": "VisitController",
+      "file": "Domus.API/Controllers/VisitController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]",
+        "[HttpPatch(\"{id:guid}/take\")]",
+        "[HttpGet(\"unassigned\")]",
+        "[HttpGet(\"my-visits\")]",
+        "[HttpGet(\"created-by-me\")]",
+        "[HttpGet(\"location/{locationId:guid}\")]",
+        "[HttpGet(\"neighborhood/{neighborhoodId:guid}\")]",
+        "[HttpPatch(\"{id:guid}/start\")]",
+        "[HttpPatch(\"{id:guid}/complete\")]",
+        "[HttpPatch(\"{id:guid}/refuse\")]"
+      ],
+      "sha256": "ed0293a4071d036fa2dc628a3db4d63d5a9c4ab6098c40a56c39981d699a7831"
+    },
+    {
+      "name": "VisitTypeController",
+      "file": "Domus.API/Controllers/VisitTypeController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "3ed0d0e505778b7e099c5eaac1a85701daf6d2a4b4cb9d6fca38c21e6db003f5"
+    },
+    {
+      "name": "VisitedUserController",
+      "file": "Domus.API/Controllers/VisitedUserController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet(\"cpf/{cpf}\")]",
+        "[HttpGet]",
+        "[HttpGet(\"family/{familyCode}\")]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "7123edab2de43e93fb971ea239b36650642930335be5e5cd5d1b4b843fd937a2"
+    }
+  ],
+  "VemKa": [
+    {
+      "name": "AuthController",
+      "file": "VemKa.API/Controllers/AuthController.cs",
+      "actions": [
+        "[HttpPost(\"login\")]",
+        "[HttpGet(\"me\")]",
+        "[HttpPost(\"register-user\")]",
+        "[HttpPost(\"register-admin\")]",
+        "[HttpPost(\"logout\")]"
+      ],
+      "sha256": "df8eea7035d68a27881403f363d331c22623816dd4d745cc60d7a3b18eea6d78"
+    },
+    {
+      "name": "QueueTicketController",
+      "file": "VemKa.API/Controllers/QueueTicketController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{ticketId:guid}\")]",
+        "[HttpGet(\"waiting\")]",
+        "[HttpGet(\"current-called\")]",
+        "[HttpGet(\"current-in-service\")]",
+        "[HttpGet(\"professional\")]",
+        "[HttpGet(\"called\")]",
+        "[HttpGet(\"last-called\")]",
+        "[HttpPatch(\"{ticketId:guid}/reallocate\")]",
+        "[HttpPatch(\"{ticketId:guid}/call\")]",
+        "[HttpPatch(\"{ticketId:guid}/start\")]",
+        "[HttpPatch(\"{ticketId:guid}/end\")]",
+        "[HttpPatch(\"{ticketId:guid}/cancel\")]",
+        "[HttpPut(\"{ticketId:guid}\")]"
+      ],
+      "sha256": "905b711c3330035b90f21a2b7902d70b22750ba12da9c0d8664844735b461c7c"
+    },
+    {
+      "name": "ServiceCounterController",
+      "file": "VemKa.API/Controllers/ServiceCounterController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "025b98068c70a799a5ea65b6e7c97bb11a3bc8ac3d0ad5cad5ef2f8deab9aca1"
+    },
+    {
+      "name": "ServiceTypeController",
+      "file": "VemKa.API/Controllers/ServiceTypeController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "50e90f34a432a7287070e5b33fc9462a76a3eec473d49ed54ff532cbebdece2e"
+    },
+    {
+      "name": "ServiceUnitController",
+      "file": "VemKa.API/Controllers/ServiceUnitController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpGet]",
+        "[HttpPut(\"{id:guid}\")]"
+      ],
+      "sha256": "204ec0bf7d0477bfdafdc53ae378329bcc33ef9f74d1af0e66474f09d33d16bf"
+    },
+    {
+      "name": "UserController",
+      "file": "VemKa.API/Controllers/UserController.cs",
+      "actions": [
+        "[HttpGet]",
+        "[HttpGet(\"{id:guid}\")]",
+        "[HttpPut(\"{id:guid}\")]",
+        "[HttpPatch(\"{id:guid}/activate\")]",
+        "[HttpPatch(\"{id:guid}/deactivate\")]",
+        "[HttpGet(\"admin/all\")]",
+        "[HttpGet(\"admin/{id:guid}\")]"
+      ],
+      "sha256": "b0f439a2456a370e02e99c36f2c2379f7c84002a659a891cbe35825d430cf031"
+    }
+  ],
+  "Ordian": [
+    {
+      "name": "AuditLogController",
+      "file": "HelpDesk.API/Controllers/AuditLogController.cs",
+      "actions": [
+        "[HttpGet(\"log/{ticketId}\")]",
+        "[HttpGet]"
+      ],
+      "sha256": "81061a9dd6d74204d6d31a628bd92ce5f44373727a25e395a8d38b6bda370191"
+    },
+    {
+      "name": "AuthController",
+      "file": "HelpDesk.API/Controllers/AuthController.cs",
+      "actions": [
+        "[HttpPost(\"login\")]",
+        "[HttpPost(\"register/{role}\")]",
+        "[HttpGet(\"me\")]",
+        "[HttpPost(\"logout\")]",
+        "[HttpPost(\"change-password\")]",
+        "[HttpPost(\"forgot-password\")]",
+        "[HttpPost(\"reset-password\")]"
+      ],
+      "sha256": "d6c2e058c19e72addb39da43ec8a2de72e5a52dda5077e365f687add00db08ea"
+    },
+    {
+      "name": "CheckListController",
+      "file": "HelpDesk.API/Controllers/CheckListController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet]",
+        "[HttpGet(\"{id}\")]",
+        "[HttpGet(\"lists/tickets/{ticketId}\")]",
+        "[HttpGet(\"{ticketId}/lists-by-ticket\")]",
+        "[HttpPut(\"{listId}\")]",
+        "[HttpDelete(\"{listId}\")]"
+      ],
+      "sha256": "ef4744ae020f59c77e74f62e8ae1fd0d2e51427aab77cca5fa3c4b8dbd81bee3"
+    },
+    {
+      "name": "CheckListItemController",
+      "file": "HelpDesk.API/Controllers/CheckListItemController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpPut(\"{checkListId}/items/{checkListItemId}\")]",
+        "[HttpDelete(\"{itemId}/delete\")]"
+      ],
+      "sha256": "72920812f175d07c5d68d2bd020e289404677d7ee72f5b445872b2d8d34bcd91"
+    },
+    {
+      "name": "DepartmentController",
+      "file": "HelpDesk.API/Controllers/DepartmentController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet]",
+        "[HttpGet(\"{departmentId}\")]",
+        "[HttpPut(\"{departmentId}\")]"
+      ],
+      "sha256": "06b15a76b312a2c3d1a73780ad9e66bf8e0696087bd3c021bdea838bbe40aa82"
+    },
+    {
+      "name": "DocsController",
+      "file": "HelpDesk.API/Controllers/DocsController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpDelete(\"{documentId}\")]",
+        "[HttpGet]",
+        "[HttpGet(\"{documentId}\")]"
+      ],
+      "sha256": "2b6b5f127104591ebbdd4aa9e199c2f3a6a041ee08c7056b03dd2690a2e7f100"
+    },
+    {
+      "name": "ExternalAuthController",
+      "file": "HelpDesk.API/Controllers/ExternalAuthController.cs",
+      "actions": [
+        "[HttpGet(\"simgep\")]",
+        "[HttpGet(\"simgep/callback\")]"
+      ],
+      "sha256": "3665b4a92b5b755854b9fb42330f0c029c904e31b19d8c6cacfcd8f22a9ef0cb"
+    },
+    {
+      "name": "KnowledgeCategoryController",
+      "file": "HelpDesk.API/Controllers/KnowledgeCategoryController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"all\")]",
+        "[HttpGet(\"category/{categoryId}\")]",
+        "[HttpPut(\"category/update/{categoryId}\")]"
+      ],
+      "sha256": "fcc020a0544b81bed6543bf4f2e17317bd0e772eb53b9524eb8c48c434bc70db"
+    },
+    {
+      "name": "KnowledgeCommentController",
+      "file": "HelpDesk.API/Controllers/KnowledgeCommentController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"comments/{postId}\")]",
+        "[HttpPut(\"comment/update/{commentId}\")]",
+        "[HttpDelete(\"comment/delete/{commentId}\")]"
+      ],
+      "sha256": "42e997c65f81be9ae5c16770e60cae0d63b8ba4c4b3ecddc8dd13dd159a8366a"
+    },
+    {
+      "name": "KnowledgePostController",
+      "file": "HelpDesk.API/Controllers/KnowledgePostController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"all-posts\")]",
+        "[HttpGet(\"posts/{id}\")]",
+        "[HttpGet(\"posts-of-author\")]",
+        "[HttpPut(\"post/update/{id}\")]",
+        "[HttpDelete(\"post/delete/{id}\")]"
+      ],
+      "sha256": "0c355c6030255b07e6b872a60686058b2c0a52e8df89b82b7c7edd7b319a2190"
+    },
+    {
+      "name": "SlaCalendarController",
+      "file": "HelpDesk.API/Controllers/SlaCalendarController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpPut(\"{slaCalendarId:guid}\")]",
+        "[HttpDelete(\"{slaCalendarId:guid}\")]",
+        "[HttpGet(\"{slaCalendarId:guid}\")]",
+        "[HttpGet]",
+        "[HttpGet(\"default\")]"
+      ],
+      "sha256": "118d7ed8d6ed8a7acd811dd62bcd94e0d20240417790c8867131874c565e21bd"
+    },
+    {
+      "name": "SlaPolicyController",
+      "file": "HelpDesk.API/Controllers/SlaPolicyController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpPut(\"{slaPolicyId:guid}\")]",
+        "[HttpDelete(\"{slaPolicyId:guid}\")]",
+        "[HttpGet(\"{slaPolicyId:guid}\")]",
+        "[HttpGet(\"department/{departmentId:guid}\")]"
+      ],
+      "sha256": "018f1dc1ad7506932697692be4e175465efe595641388a20344021f9bbed9175"
+    },
+    {
+      "name": "SuperAdminController",
+      "file": "HelpDesk.API/Controllers/SuperAdminController.cs",
+      "actions": [
+        "[HttpPost(\"admins\")]",
+        "[HttpPut(\"users/{userId}/disable\")]",
+        "[HttpPut(\"users/{userId}/enable\")]",
+        "[HttpGet(\"admins\")]",
+        "[HttpGet(\"admins/{adminId}/users\")]",
+        "[HttpPut(\"users/{userId}/role\")]"
+      ],
+      "sha256": "f2ace9a17d0b7466a5efc87910733addb97e0ef2bece380b9160c159e5b67003"
+    },
+    {
+      "name": "TicketAgentController",
+      "file": "HelpDesk.API/Controllers/TicketAgentController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet]",
+        "[HttpPut(\"{agentId:guid}/primary\")]",
+        "[HttpDelete(\"{agentId:guid}\")]"
+      ],
+      "sha256": "41ddee0f220613236f1cef1cab7389800032d8c8f4ebfcd0ed7c2bda0a4a8a5e"
+    },
+    {
+      "name": "TicketAttachmentController",
+      "file": "HelpDesk.API/Controllers/TicketAttachmentController.cs",
+      "actions": [],
+      "sha256": "686e4f8a45d9864c556db3e2b394d7feac096686d94edca206764223ac6d0f07"
+    },
+    {
+      "name": "TicketCategoryController",
+      "file": "HelpDesk.API/Controllers/TicketCategoryController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"{categoryId}\")]",
+        "[HttpGet]",
+        "[HttpGet(\"categories-by-department/{departmentId}\")]",
+        "[HttpPut(\"{categoryId}\")]"
+      ],
+      "sha256": "0e66b2329d69857c67b992cf79e048e0153c4ddaf5080f930ea8f0f383a1233a"
+    },
+    {
+      "name": "TicketController",
+      "file": "HelpDesk.API/Controllers/TicketController.cs",
+      "actions": [
+        "[HttpPost(\"create\")]",
+        "[HttpGet(\"my\")]",
+        "[HttpGet(\"queue\")]",
+        "[HttpGet(\"assigned\")]",
+        "[HttpGet(\"department/{departmentId}\")]",
+        "[HttpGet(\"environment\")]",
+        "[HttpGet(\"{id}\")]",
+        "[HttpPut(\"update/{id}\")]",
+        "[HttpPut(\"status/{id}\")]",
+        "[HttpPut(\"priority/{id}\")]",
+        "[HttpPost(\"{id}/take\")]",
+        "[HttpPost(\"{id}/agents\")]"
+      ],
+      "sha256": "71cdc9d472b29cc4ed0297602096a0b7634d3a3a4e2870dfb210c0fa89c7cf24"
+    },
+    {
+      "name": "TicketMessageController",
+      "file": "HelpDesk.API/Controllers/TicketMessageController.cs",
+      "actions": [
+        "[HttpPost(\"{ticketId}/messages\")]",
+        "[HttpGet(\"{ticketId}/messages\")]",
+        "[HttpPut(\"messages/{ticketId}\")]"
+      ],
+      "sha256": "0358deb239c14ef285a23fc1c43394005a5ef2613b4dc56a9f0be10e0704acf3"
+    },
+    {
+      "name": "TicketReportsController",
+      "file": "HelpDesk.API/Controllers/TicketReportsController.cs",
+      "actions": [
+        "[HttpGet(\"dashboard\")]",
+        "[HttpGet(\"sla\")]",
+        "[HttpGet(\"by-status\")]",
+        "[HttpGet(\"by-priority\")]",
+        "[HttpGet(\"by-category\")]",
+        "[HttpGet(\"by-department\")]",
+        "[HttpGet(\"by-agent\")]",
+        "[HttpGet(\"trends\")]",
+        "[HttpGet(\"aging\")]"
+      ],
+      "sha256": "353c78c486b5166e00574dc46fc763571d7851bff6742d3afa4f43ee68856046"
+    },
+    {
+      "name": "UserController",
+      "file": "HelpDesk.API/Controllers/UserController.cs",
+      "actions": [
+        "[HttpGet(\"all\")]",
+        "[HttpGet(\"user-by-id/{userId}\")]",
+        "[HttpPut(\"add-role-user/{userId:guid}/{roleName}\")]",
+        "[HttpPut(\"remove-role-user/{userId:guid}/{roleName}\")]",
+        "[HttpPut(\"enable-user-by-id/{userId:guid}\")]",
+        "[HttpPut(\"disable-user-by-id/{userId:guid}\")]",
+        "[HttpGet(\"users-by-department-id/{departmentId}\")]"
+      ],
+      "sha256": "16cb6a5fe203a714b64fa8a87512b1390441d7ebd3587331caf0e4338d9a835d"
+    },
+    {
+      "name": "UserDepartmentController",
+      "file": "HelpDesk.API/Controllers/UserDepartmentController.cs",
+      "actions": [
+        "[HttpPost]",
+        "[HttpGet(\"departments-user/{departmentId}\")]",
+        "[HttpGet(\"users/my-departments\")]",
+        "[HttpDelete(\"remove-user-department/{departmentId}/{userId}\")]"
+      ],
+      "sha256": "a312820c991da31b840702a8c990abdd3795bf69449c57acd8a34df4fda9e7cf"
+    }
+  ]
+}

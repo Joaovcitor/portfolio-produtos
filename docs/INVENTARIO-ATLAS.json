@@ -1,0 +1,882 @@
+[
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/AntiforgeryController.cs",
+    "sha256": "9a7e4c094537874beb251e34aa2a511375f595936cd175b6973d343891ecb3e8"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/AuthController.cs",
+    "sha256": "a4a51178e9bd318ff7c9d5d52a69c6d411ef325c597546cf85e37f2b0a078f87"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/AuthorizationController.cs",
+    "sha256": "f7e171d49ee15412d8204255ff40c034e58f7b373f48989ce67a4a09c232ece0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/EmploymentRelationshipController.cs",
+    "sha256": "d61e1152b93876326ae1555aef5370ad63ed871284dc27248fbefd629f6c500d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/ExternalSystemRolesController.cs",
+    "sha256": "c3dc9233269aba56341417f27427c02c45d42ec938550330d7490be8df4c2fef"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/ExternalSystemsController.cs",
+    "sha256": "2578e061eb9678de69780517d11c41fd6421b3600d09ac5ca0c4de04d8c4a164"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/JobFunctionController.cs",
+    "sha256": "5f1117af2cfb172ed135dc54278a6c0996e730d729cf9c3025489195138c5e06"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/PermittedSystemsController.cs",
+    "sha256": "fb6c080ba94950ddc9f5f7d15fa895a6befc4c2650bd91d6ce90b980c2e398da"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/PersonalFormController.cs",
+    "sha256": "d9fae0d95ef894b700ef855b42ea491178bba40e50a1fa6bb67d9d92577ec37a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/ProfessionalFormController.cs",
+    "sha256": "6a4a1f3fc345ad0a35cd1ef2b577708f8ea1840d1e7b21c6d74c658bb646e029"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/TwoFactorController.cs",
+    "sha256": "1f586fdbbe168665e72cb75da2d3139b74e209b22aa76ad9ba3255d503f1b8ca"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/UserController.cs",
+    "sha256": "ffd0e83b7e1ff3e5ec4fe505a9aa59f1e4e4924484a19abf382ca48b4af81930"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Controllers/WorkplaceController.cs",
+    "sha256": "c36ec82625b3a54a05ecdcc56f5bda9078a3a0b9bff84693d50e9ee17787f8e6"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Middlewares/ExceptionMiddleware.cs",
+    "sha256": "556a100366704e74f2f0a26bc38cb296c6db7654315bee4e2094b8b40e820b78"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.API/Program.cs",
+    "sha256": "6aedc4e231d5b0e93900e6d3990a5022bd7ea983e59a15712f223367a03d205c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Cache/CacheExpiration.cs",
+    "sha256": "a0e441fea684617339ff05a70acb33ed2d44a6b614ede66de388e9bd0944563d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Cache/CacheKeys.cs",
+    "sha256": "552bbfaa1b03257b2775eab30ebe334da4f7d6f3d38672aa522b641c546984b4"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/ChangePasswordData.cs",
+    "sha256": "709ea67081fe83dc62c55d5b1f8ef2278fd44e2238d291d23ae1843256f1c03f"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/EnableTwoFactorRequestDto.cs",
+    "sha256": "42877542ebe4c43142009d681281098427b3f9c69124ac0578df77926956b8cb"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/EnableTwoFactorResponseDto.cs",
+    "sha256": "01a79bcf830aa16fa6b566a1476688e94a9547e39231f094bc826334047d86b7"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/LoginAuthenticatedResponse.cs",
+    "sha256": "1d6d70e35b3dc223218224eab82a86385a93fc0b8cfdded834b10f8aabcd9f6d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/LoginData.cs",
+    "sha256": "f4743a28a8775a0ed2aad875eb9dfd830c8556b13e42f5e869de128a99b382b3"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/LoginResponse.cs",
+    "sha256": "1ca8439d5d3879204cea6787f7b87425686f87a17b95ac475f21869f44a54838"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/MeResponse.cs",
+    "sha256": "d6482ba76ad45a7ac342d045269c3f558aeeb543d5352b793cd33effd459bc1e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/RegisterData.cs",
+    "sha256": "82379206aeec154948316399a9374fced541b99d3c146bda2f9ab90177e7018b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/ResponseSendCodeToChangePassword.cs",
+    "sha256": "0adba048054f0d0da780e094d92c5c22c176233f84f597a56db684ed539e562b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/TwoFactorSetupResponseDto.cs",
+    "sha256": "492b595da0df7c385b2dc39d49e7bb518a8216dbf152b6cf8950411a08c1170a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/AuthDTOs/TwoFactorStatusResponseDto.cs",
+    "sha256": "f2be5e9c0ec629d534ea37eece7c9e4abf72c6a693938bfc35168fcbb71d37cc"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/Authorization/AuthorizationResultDto.cs",
+    "sha256": "4af7efa6a0c5eb860b2aaa25dd95025e28f7573d656e128fbff03ae8caadf114"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/Authorization/AuthorizationUserDto.cs",
+    "sha256": "7553e3de739233b996e024a16c334ec0ff7b6468631cbbecc41ca2ed880cae06"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/CodeAccessDtos/ValidateLoginCodeDto.cs",
+    "sha256": "7095714c7e6fd056d918eaa63ad16a8bab9872dcb5ffa4fefdaa65b9e46bd2fe"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/EmploymentRelationshipDTOs/CreateEmploymentRelationshipDto.cs",
+    "sha256": "6bf5460c573aa8bc4ba8a04c7379103b397716a8bebccc9657aa80f34c80a113"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/EmploymentRelationshipDTOs/EmploymentRelationshipResponseDto.cs",
+    "sha256": "681dd320618114868e66e2c2ec484ead2a8a637a868a955cd2ba4a8cbc345d78"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/EmploymentRelationshipDTOs/UpdateEmploymentRelationshipDto.cs",
+    "sha256": "c6f13c011a729af748d407b311e31f07a69062762b3d97c98e8e533ac7e71a8b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystem/CreateExternalSystemDto.cs",
+    "sha256": "cce8bf43e87a858a801ba363b8c4cb33fbab4cd636135cf33ed197186d662d9d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystem/ExternalSystemDetailsResponseDto.cs",
+    "sha256": "a5baf5c0ce697080d6d98646a6e4bcd9bb38373500125d44f116fca85ae6d06e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystem/ExternalSystemResponseDto.cs",
+    "sha256": "adfb4e7832a5ae90c6a6745b15b8d498976bb313e623d5ea523c1bd437165c5c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystem/UpdateExternalSystemDto.cs",
+    "sha256": "11a21b9a12f0ef6e42561df4ba2bbd295197f80a96332537016cfdafbd4d9226"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystemRole/CreateExternalSystemRoleDto.cs",
+    "sha256": "1a47039bcafd91741af670e25d977fbfc52b8a7d5ad66f5f1afc5d71f0f21abe"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystemRole/ExternalSystemRoleDetailsResponseDto.cs",
+    "sha256": "7dda2f54b57b04fdc03bee6117881a3a33450918bf4bda53543bf5743879274c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystemRole/ExternalSystemRoleResponseDto.cs",
+    "sha256": "de5f1e29fd27918b121b7de616c3b9667468e713b42e5034b5f432299832cc94"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ExternalSystemRole/UpdateExternalSystemRoleDto.cs",
+    "sha256": "4fbb5a8b52a99e425e8f6bea00d0d6692b21f4bac3cd47c0bcb14ea94bc7b79a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/JobFunctionDTOs/CreateJobFunctionDto.cs",
+    "sha256": "66adcbb573e936adc020651b7593f55d2ae8b8c8c3a1a348f1ada7bab66abf90"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/JobFunctionDTOs/ResponseJobFunctionDto.cs",
+    "sha256": "9ea0b7684fcb468e196cdf9ae3ee13bae1c396fbe433cfa0fa1f6d73c41a42c3"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/JobFunctionDTOs/UpdateJobFunctionDto.cs",
+    "sha256": "0700c3a2da2c25639839faea64d19d7d8ed24508be83bf899f35ea93ad183087"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/Pagination/PagedResult.cs",
+    "sha256": "740b82cb26537142805c8b7e694b5c21318f6f5268d496190ad7d07b3d3446c6"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/Pagination/PaginationParams.cs",
+    "sha256": "345fdac63e370d63cc404d5d3b91eebb01370b653a3e83d3ddbd6ad769a8d334"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/CreatePermittedSystemDto.cs",
+    "sha256": "2e76c75b6c15ede563bb97c227384dea93c4e8fa3cc69c64b0bac0560f0418ca"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/CreatePersonalFormPermittedSystemDto.cs",
+    "sha256": "f080bd9cd3251e704efe3bd8e05e465d0741fa013091b37420c92661e6946ad1"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/PermittedSystemDetailsResponseDto.cs",
+    "sha256": "2a73fd1ac24a75f83eef3333208bf2b1a26fd9dc99640208464c043c5ed864a9"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/PermittedSystemResponseDto.cs",
+    "sha256": "725798a7e2902e6aed2cd843835921c002c90690903add696aa04adb4a56fe7e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/PermittedSystemRoleResponseDto.cs",
+    "sha256": "85b972099d224dfec699cd0cd11da5615c0bfb76536b9808cc4853bc637c4c7b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/UpdatePermittedSystemRolesDto.cs",
+    "sha256": "a882f2849372b3bb58a72783605b59f750645bb5d2a2daa148f7662c3e1d8e1b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PermittedSystem/UserPermittedSystemResponseDto.cs",
+    "sha256": "df30f959d9c77110d45807ab8b4e13fe44926d14a3c4b0b877273cb25faaa707"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PersonalRegistrationFormDTOs/CreatePersonalRegistrationFormDto.cs",
+    "sha256": "9b9cfff97035876592ce6eed3055075a56e2b52900ae99f69c31b781c2d19e4a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PersonalRegistrationFormDTOs/ResponsePersonalRegistrationFormDto.cs",
+    "sha256": "33fcb3fa6262fcd5816b4a2687e8b726ebe00a0305ef9b6d255af6531c7115a0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/PersonalRegistrationFormDTOs/UpdatePersonalRegistrationFormDto.cs",
+    "sha256": "c9b4ad9e3fb144774aa135af7b424648546d75e585ce8b225d61410d3d426cc2"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ProfessionalRegistrationFormDTOs/CreateProfessionalRegistrationFormDto.cs",
+    "sha256": "bd720d3c3b8574fed65d8386b0bd7f5d47804d4a010484ce618845b1aa655c36"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ProfessionalRegistrationFormDTOs/ResponseProfessionalRegistrationFormDto.cs",
+    "sha256": "fd7d6151d8a5a4c97c7b042c9ed4da3d2fd4914d9f206ade65d814274e0a9021"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/ProfessionalRegistrationFormDTOs/UpdateProfessionalRegistrationFormDto.cs",
+    "sha256": "d2dc725ec35e79ce1fa1aa998897609a3bad1361967e79595ad72a12f7e3dd78"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/UsersDTOs/UserByIdResponse.cs",
+    "sha256": "b8cd957b2557d03c61e19ab8e0d0c79c037d418b159131c8eea219f0472c2c55"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/UsersDTOs/UsersResponses.cs",
+    "sha256": "b030448b78caf3824e76b13214f996d6cd9cb1232ebe202d51771489e5b24d96"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/WorkplaceDTOs/CreateWorkplaceDto.cs",
+    "sha256": "618f6807c33782cead8378d125e67152d5e813e8ca2cb12fb1345390c84869a2"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/WorkplaceDTOs/UpdateWorkplaceDto.cs",
+    "sha256": "36e08ad9f264d0afef5dcdcef507ca9a3f6b1b1a7532ec7366c763f0dc14041d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/DTOs/WorkplaceDTOs/WorkplaceResponseDto.cs",
+    "sha256": "c52b4d50b8e3da06f92cfa53c85efa582e52d3aef615450e2b2303b8e584a5ac"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/AppException.cs",
+    "sha256": "d273f23c3d30fc53d0faf3ad2376d8fce8099b0f2974df9d9563a5930b2403d7"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/BadRequestException.cs",
+    "sha256": "4b75edc2b0c4993bd41fa8c014ca12df559f2368564a0655e50ea68037d77271"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/ConflictException.cs",
+    "sha256": "575d5e3eadac79fa6746e0daa5de301d8540ee4bee148eac49ec65b4b568094f"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/ForbiddenException.cs",
+    "sha256": "1023fca48ad6ec590f4965a46c6ca6b909ad313644b85625ced2edb3ec2d36e2"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/NotFoundException.cs",
+    "sha256": "4588573e8587c14ec00af880495c09c0f711d5a12ee270c061c43f9f110ffa29"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Exceptions/UnauthorizedException.cs",
+    "sha256": "9a974659f11c4e96d41098a47cde3d1a5312211529a6fc3b7dc204d4491ae1d0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IAuthService.cs",
+    "sha256": "bcbf5a61369339a9f6cf4f8f9a43138e5773dc808b318664e73c7df99544b957"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/ICodeAccessRepository.cs",
+    "sha256": "bd164e5a6090de262f0cda26343b40ec1a6c301cd14efc6a681355c8b470ac36"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/ICodeAccessService.cs",
+    "sha256": "5f98d7165aeef7f99c6b244a6a0316c1191d2283abd0f32f060e8f792fd59c20"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/ICodeGenerator.cs",
+    "sha256": "2083120b362194747a9d06269cb33fcf30433991c1d6493d2d374aa8cf0ff571"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/ICodeHasher.cs",
+    "sha256": "d88be6e0267384a09992317485af7e603ef9f0aa0ca99896cf5ed20c56582fc3"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IEmailQueue.cs",
+    "sha256": "a55604073b084a78d8ffb8ee9bd170d86646d903b4efc73dddb1312f2a000dba"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IEmailService.cs",
+    "sha256": "39f0b6f5bd1b528f4572417f577243ebced6b6bf63d3510d5cf32fb72dc3f62c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IEmploymentRelationshipRepository.cs",
+    "sha256": "49c2a8e78724414767d1fe6d819f5086d0797e5399cd31347e6bd7b6a0e20a09"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IEmploymentRelationshipService.cs",
+    "sha256": "e7512b8dffad2ba9bde900fbd33c9757f4f7fe7811e595f9efe90d2481ae2bef"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IJobFunctionRepository.cs",
+    "sha256": "8b78bf97f2a3ad42cc67e8839c919b907937a06db041e46224e694215d945fe4"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IJobFunctionService.cs",
+    "sha256": "4fd461fbd8970c78e1a636ad5bf8cf77c41584d6fc39cf61296bf35e8f7c5285"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IOpenIdAuthorizationService.cs",
+    "sha256": "92d6b2942847988dc4a11c0758d6740fcc326582434e1002cc8713f79b440a3b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IPersonalRegistrationFormService.cs",
+    "sha256": "f1e01c78466d2e2158050a40243244fc399564a5fbcedebbaa6c32946127e981"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IPersonalRegistrationRepository.cs",
+    "sha256": "6cd989c8f9a9d71482d36d3fb589bd5c9ad8f2a0c0e60c263cf328c540857765"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IProfessionalRegistrationFormRepository.cs",
+    "sha256": "5c60b211c25cac6b87a09259c3ec21a06031721180cee7d7023bbfbf196f55e1"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IProfessionalRegistrationFormService.cs",
+    "sha256": "b6ec7e4d7239973528d795d8404dd19da4bc6c89046e26778a41d05c0308336d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IUserContext.cs",
+    "sha256": "3c1f6d8df56dac9c24c31614021503c3d5c634a70d6fec0ea0035da2c7442075"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IUserService.cs",
+    "sha256": "01bdb015ba5031045352fd14cfc98d38386c4442bf511af93e728789d25c65b8"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IWorkplaceRepository.cs",
+    "sha256": "81bef760b6e8c72e9aeccf1016c9202bfd6bfce893337646a44e0a9c3af915a9"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/IWorkplaceService.cs",
+    "sha256": "04700c22785bb1877adcccbccb6164ed148ed0799250ea641974cb383f8c5aca"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Repositories/IExternalSystemRoleRepository.cs",
+    "sha256": "73eb8d0803c9b777e93dd8d4393e5228be501aec040f24922b071630dbfe168c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Repositories/IExternalSystemsRepository.cs",
+    "sha256": "9f25145e440cfde0d668fddd171ead1891ded95ad32f097360d52c024c836492"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Repositories/IPermittedSystemsRepository.cs",
+    "sha256": "0a791a5d931e25f00172529a029b5259200ad6c287446b9fb6049720d1483001"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Services/ICacheService.cs",
+    "sha256": "863703a917f95c960b2aef06d9f979b04043fe291b5827083570a83f21e8f8f5"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Services/IExternalSystemRoleService.cs",
+    "sha256": "696cea7f319570f262119ded572db674b4e0cd7faf3d5ef0a013e739a95b348c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Services/IExternalSystemsService.cs",
+    "sha256": "81277858a2ed87ecbe6c9f079e10657faf000f5490e05af78d5a821c14c0002d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Services/IPermittedSystemsService.cs",
+    "sha256": "21e8f61ae9d23c113ffae95f6732ab86df641876248843817e1475df706ea031"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Interfaces/Services/ITwoFactorService.cs",
+    "sha256": "d304472cce8963e6143477a090c95d2e066a7db9de85a72137a49e19060cc320"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/EmploymentRelationshipProfile.cs",
+    "sha256": "957278cb5895421c505ed4e9ec33d1513ff70d5cbef54848f2eccbf721bbf68b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/ExternalSystemProfile.cs",
+    "sha256": "f989c98fef0f4e9667fa8ebd0354059809830fc09e1caeedfaa5b1bb3edcf951"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/JobFunctionProfile.cs",
+    "sha256": "761f4ed918ae0d69f2f65fa3cf0a52f16561962d55aee534edd6125d25b8e905"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/PersonalRegistrationProfile.cs",
+    "sha256": "7d524fb13e4055789959a48949c6397ba25a18e17603466da4c1cd26cc6a3d2b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/ProfessionalRegistrationProfile.cs",
+    "sha256": "1e530461a7ce6576ca7f73f355a83cf8be746083aa9fcb110af28de26973a7a1"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Mappings/WorkplaceProfile.cs",
+    "sha256": "acc81c8dfbb91f6416c70c2f4735b259e13f9ab857f0526d2e41c4a405da38a0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/CodeAccessService.cs",
+    "sha256": "ac4bfc464c3d3c913777542147b587ccf90ed7a5653bdb509668cb63edfccac0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/EmploymentRelationshipService.cs",
+    "sha256": "31a414edb8e0d2beef856db6a1dc5ac7122d7f18c63594dc26ffe7ecf58f7ec0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/ExternalSystemRolesService.cs",
+    "sha256": "21c9c62f909f4265871739e9f60b93159954b41fb8352f86e895957bd381b905"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/ExternalSystemsService.cs",
+    "sha256": "544f0d1c4eb44009601f2a0dd30a99c99bbed89b2b4c3cf79d0411d90f32b2c7"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/JobFunctionService.cs",
+    "sha256": "41b1e03953d1a812de10a9c187d82532a4b1fe93387713ea2402389b5c680fe0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/OpenIdAuthorizationService.cs",
+    "sha256": "9971b6fd80a59e75ea52ef112814001c11eaa0ef9379e0c74fd654e160c49878"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/PermittedSystemsService.cs",
+    "sha256": "5835c867f617133b2bba244cafa033bfbd32e1194fcb4e3f4c4815069a5669ee"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/PersonalRegistrationFormService.cs",
+    "sha256": "996e50e9dbfb377e1b782f7af1f9a06d8939f1b21bf7d420f6c540992ca6e99f"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/ProfessionalRegistrationFormService.cs",
+    "sha256": "1889d15234dd55916341a1e6b3e65b7ae825e6220e30dca5c0fe6ad4039a577a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Application/Services/WorkplaceService.cs",
+    "sha256": "678a1ec371477254d37531ce39b0fa6ef96ed17d9f52af66a4be9b36179d2315"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/CodeAccess.cs",
+    "sha256": "3daa114ece890d64c26388c4f630ef3d4f2380788a49eb493d8aeddf52c8b1b8"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/EmploymentRelationship.cs",
+    "sha256": "29a589c87c400bc3db9c84945a13ec1606e342d299e0392fe0de47c40601d40c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/ExternalSystem.cs",
+    "sha256": "3d5f975efc80a4b9e744a9654761b75f9e95c70a08d6f3345e4ed2ed5e1da2bb"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/ExternalSystemRole.cs",
+    "sha256": "541b12288e0fd6f4dba72060a64c4dae7a9b975a377f222abf8004c390929bcd"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/JobFunction.cs",
+    "sha256": "e22140bc702acc822901380daa038db65f095439e2dcddb3a24a8b3bcc5e35f8"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/PermittedSystem.cs",
+    "sha256": "8346fe3ca838fa6eff99593628d441f104d70f88a13a746fe7bd8d9112663fd3"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/PermittedSystemRole.cs",
+    "sha256": "9f9cf3c70c713e818ee2e75a2b04e4ebb0ca4bb9ad32a6948cbc7a8f553a2820"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/PersonalRegistrationForm.cs",
+    "sha256": "08b808c98abdeaa4682eb428c44f874ed409b59ee465dbed1d406168ca2f1122"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/ProfessionalRegistrationForm.cs",
+    "sha256": "caf9218cccd32b884749df4c2f1d7748bcf62f762dd4617361d554ae6d7821fd"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Entities/Workplace.cs",
+    "sha256": "d7653313b6033b0079950f94d792375474cfca5148de0e137af3701257e3682e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Enums/CodeAccessType.cs",
+    "sha256": "4a2740d1ecfbe7ad9a73407d22d4b2794d6c9b1a419cbc5a69d702c002dfe28d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Enums/EmailQueueType.cs",
+    "sha256": "392c1d086829c966dd8ac058e3295cba353f13ee9678c6934dc40b6de684c89a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Domain/Enums/StatusCodeAccess.cs",
+    "sha256": "e89e5b09fd06ee56271d1c105dd700e398101d7d3f22cb2382906127d5ae7952"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/AppDbContext.cs",
+    "sha256": "c65b4b846c33bfc09321c9dd676c0fbc24a099a458ec3e1e16ebf1204f32633d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/AppDbContextFactory.cs",
+    "sha256": "11996c0bd9360b79149c193d170183285578af2d76c3506753436e709829991d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/EmploymentRelationshipConfiguration.cs",
+    "sha256": "1a0f3222a0ca0cada1ece7742a6ab7e12f4abaa0632ff1d6cef9afec85f79e6e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/ExternalSystemConfiguration.cs",
+    "sha256": "7c0e166c41091bd005d10c64026d440d7f66d25e4687e0d3ea216cb5d5aec743"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/ExternalSystemRoleConfiguration.cs",
+    "sha256": "135ba27d914e3fb07343ec2a5cf726f84ad4411abdb1e81eb3bf1b7429668b5a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/PermittedSystemConfiguration.cs",
+    "sha256": "932cc7a088fac6604ce0c1275a17bb120cc35d8641f9b271ba97e01508760a9b"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/PermittedSystemRoleConfiguration.cs",
+    "sha256": "228d219d6a1f46a4c95eb3e88c8947ff799685e05028f49148d7462d29d18caf"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/PersonalRegistrationConfiguration.cs",
+    "sha256": "87a2bb299dbb2b7b0fd7f7cbaee804feb91411303993b1c0f3a22198ff13f501"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/ProfessionalRegistrationConfiguration.cs",
+    "sha256": "55c194eb4c90f7d308b6c2305310afff9f96ca1f1d364d8806e1b436ed83c7d0"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Data/Configuration/WorkplaceConfiguration.cs",
+    "sha256": "1984360c231c8ec81902d6d38a67ff39a3294ed27611f92fa79ad236c7ee09cf"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Email/Helpers/EmailTemplateRenderer.cs",
+    "sha256": "2bbdbf956f7581acfb62e1799db919da4dd911db8fab7ed06f4807f7aee4754e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Email/Queue/EmailBackgroundService.cs",
+    "sha256": "3b2d7b485ecb53721a6685ae786a2e5b7d12384885ea461d13c27c5b7a83babc"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Email/Queue/EmailQueue.cs",
+    "sha256": "28d272abe4eb31c0947e03b8beca34e5b13c217a6a3307ad43575d1c4683a44e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Email/Queue/EmailQueueItem.cs",
+    "sha256": "8bd74ccab90a621ab32f1c828045855218daf83ef2ff954ed5b6074fd7013059"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Email/Services/EmailService.cs",
+    "sha256": "1367d2c46d51ddc56eadfd769d1b173e823149da71ece710b3b293c7b565182f"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Helpers/PasswordGenerator.cs",
+    "sha256": "ad045d145b36111de0e1aaa6237998c6a9c189d65a755fe8ab9f28dcb390993a"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Identity/ApplicationUser.cs",
+    "sha256": "7f625f36ef5e7dfe6efadeb372a227bc3fc519b5337fc94b8a02df6f70e3c17d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Identity/CustomClaimsPrincipalFactory.cs",
+    "sha256": "972e2bc4fd364094a566faefb8634c0c39e89d35beda69433376981a6320e99e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Identity/OpenIddict/OpenIddictExtensions.cs",
+    "sha256": "4500804071c09a6c396f5d0d4edb5ab68bb2c2e96081de203939580f4a4bf585"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Identity/OpenIddict/OpenIddictSeeder.cs",
+    "sha256": "fec76e0b38c0d33660f30dc2e8d89c0e1e63dd428d24161ebc98810d26accabe"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/CodeAccessRepository.cs",
+    "sha256": "d4849cf6ae155078e112604edd731577f0c30b70982ec9aecad44e7b780c2ee8"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/EmploymentRelationshipRepository.cs",
+    "sha256": "440207c72d9b7bdc0ac80bdb6cdbd20298d6ad5b046a0f2690969ef806d03a05"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/ExternalSystemRepository.cs",
+    "sha256": "37270805942d03b72de67b3c91841d84789376a897995f73b93f7d9de402f1c1"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/ExternalSystemRoleRepository.cs",
+    "sha256": "7bb5acb8975c37f3740736b1b54566cfb410fe09e95ab68008101505f7683163"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/JobFunctionRepository.cs",
+    "sha256": "2b2506a07f5b80cc990f57b6192b1c4ac1c98ea4e9935ceebbde152c9a838f6e"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/PermittedSystemsRepository.cs",
+    "sha256": "9b4c11363be4e28b3bb8ae9649f06a3576d523e389822a4513b9a7b21aeffc30"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/PersonalRegistrationFormRepository.cs",
+    "sha256": "77084fe563b68f071ab69e633beea7ed15e71c199a07500d14259342fb5a326d"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/ProfessionalRegistrationFormRepository.cs",
+    "sha256": "8deb565514330416ba3d96f8d41466c08fea5d8ff6dc62b2674f8565d57d7c71"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Repository/WorkplaceRepository.cs",
+    "sha256": "ce5f13cdcd784e281fd9b5e3eac1ce07e0c790cf39dadce32bb127741cfea185"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Security/CodeGenerator.cs",
+    "sha256": "76708b303b06bb1ea6a615f448476da264e84db366792435423659bb1660dc04"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Security/CodeHasher.cs",
+    "sha256": "17fcf281172f36b0291fd475664e73d2efb24ea5977a417a50b52f5691ffc316"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Services/AuthService.cs",
+    "sha256": "c4b7d879b6ab57a2a440e1a4e0948cbbf8510bd616732cc8e629baa343840e31"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Services/MemoryCacheService.cs",
+    "sha256": "e4214f8365e381b455aee7daa158543fda89eece9f57b35cccd98f1fbb97c709"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Services/TwoFactorService.cs",
+    "sha256": "40f120eece79687f0536c7707d1f812eb452f9aa2cd5983328c01ee3b718dd87"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Services/UserContextService.cs",
+    "sha256": "a156882aa1e7306b0c739a88131e82d14da4eb7b75d3d883a717b748d1065ab6"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Services/UserService.cs",
+    "sha256": "c9663bc8c27b8548a249d697748191a62d1586efbbeb6adbbdf8ec6bca61044c"
+  },
+  {
+    "origin": "backend",
+    "file": "SIMGEP.Infrastructure/Settings/EmailSettings.cs",
+    "sha256": "30704e9738768acf304598991385e10328f50f394d30c71d94c9d59af233676d"
+  },
+  {
+    "origin": "frontend",
+    "file": "public/atlas.svg",
+    "sha256": "6e801d2dd675eb4fedacee52ac9aab2a011fdf1c8c2899261b04c8d88fcd7f8e"
+  },
+  {
+    "origin": "frontend",
+    "file": "public/favicon.svg",
+    "sha256": "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66"
+  },
+  {
+    "origin": "frontend",
+    "file": "public/icons.svg",
+    "sha256": "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/App.css",
+    "sha256": "6e25a776d3e8102da5bacb3cb99f4a5fc662a2e01e6143140671a556d28c3d5c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/App.tsx",
+    "sha256": "44e3ebd1bc480eb155c8ea22fb869ec13c41730026dc22ef772afb7abecc9538"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/assets/react.svg",
+    "sha256": "35ef61ed53b323ae94a16a8ec659b3d0af3880698791133f23b084085ab1c2e5"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/assets/vite.svg",
+    "sha256": "5be21acd42eb7b896e517f4e0f0f11eb5c5d9e54fbbcebe9453f033008fcca6f"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/index.css",
+    "sha256": "10e6b5fd59ec5d79d6652fc9f2796d49b48591ad922e0b7ede95314a326f797c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/main.tsx",
+    "sha256": "cc97123a0837035951fdbe58f8c5ab770466db575fb88ee3aca4f22cc99ce23d"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/services/api.ts",
+    "sha256": "30a5ff00c487ab32ba54084a998d9fab86f00bcdb52ec602cce72fa0584696ee"
+  },
+  {
+    "origin": "frontend",
+    "file": "vite.config.ts",
+    "sha256": "8cc56a0739763b3416c42ce0b03616c8e81e836d1cd6429241a514bbce6adfd7"
+  }
+]

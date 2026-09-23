@@ -1,0 +1,1107 @@
+[
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/AlertController.cs",
+    "sha256": "40b9a873f7bb524936f1c3737229933315da4ff3df245b0ad23dbf7efa74cac6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/AttachmentReport.cs",
+    "sha256": "83fd5cd0a2ab12a842f5826ecccf287629bf80a389cc5affea6cbe88e634361e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/AuditLogController.cs",
+    "sha256": "e67aa27faef78600c8304cd26cb0ad5c758b16853c0b2216e32ab2cb88b258b0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/AuthController.cs",
+    "sha256": "02162a5e0a40c73713fcd73adc5c6706dccca972d6d827b4ac832d637c8cbba8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/CareUnitController.cs",
+    "sha256": "08db6f0d1712c10888b32d9ffa1db02c73670c82f88ca481ad8afd1087a6f904"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/FamilyController.cs",
+    "sha256": "a71afdf8b65b44511df8fe758e7fa681986b12dab35b4f2b7834b911ee900bd3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/LocationController.cs",
+    "sha256": "a932f2d14928f286a33afcbaabadf7f6f9ff84638d414a81dd8ac836e352ef3b"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/MotoristController.cs",
+    "sha256": "6c457c22030a6bde332c4c16d6856124385c312608e0db4f8fd54a0ad45d939b"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/NeighborhoodController.cs",
+    "sha256": "61bcdd77b0e223be4db3953a965a1384f98a83bfa58bfeb2e362cbd6e09881de"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/ProfessionalController.cs",
+    "sha256": "45bd934048b2e0177edb15b94e276ac9616bb86196168eb9bba1640c7c618fa2"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/ReportController.cs",
+    "sha256": "cdf072ab65072b61d7bb79ca6dc4aabee480f933dfec08fd5466f5254d4b9c59"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/UserController.cs",
+    "sha256": "e749bd0ba24e0ab16c7a5716a66eebb7b563f55e4d45876fb515d17b2b8f2f74"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/VisitAttachmentController.cs",
+    "sha256": "13efb9e38958344deea062f7cde9733c7ab47de402146c9a1f02de87c3a18c29"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/VisitController.cs",
+    "sha256": "ed0293a4071d036fa2dc628a3db4d63d5a9c4ab6098c40a56c39981d699a7831"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/VisitTypeController.cs",
+    "sha256": "3ed0d0e505778b7e099c5eaac1a85701daf6d2a4b4cb9d6fca38c21e6db003f5"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Controllers/VisitedUserController.cs",
+    "sha256": "7123edab2de43e93fb971ea239b36650642930335be5e5cd5d1b4b843fd937a2"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Extensions/AuthExtension.cs",
+    "sha256": "13adacb97a0beb63f2a454a47a83751a1fca2d11b822b6fb944cd37a651e6065"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Extensions/DependencyInjection.cs",
+    "sha256": "50f6f6a76d1bf9f44ec12bd1000189ffdf616c1761b53cdb12c0a81cc4e22ac8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Extensions/RateLimitingExtensions.cs",
+    "sha256": "644a1fe840683f5390517e57b9cf2291c17d6510ef25ef468985e47698108c76"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Hubs/VisitHub.cs",
+    "sha256": "6618186d5892fc1163f8a6d26c525f4d3b93fc7751c3ca1038dbb1af95d880c8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Middlewares/ExceptionMiddleware.cs",
+    "sha256": "5ecebdc499b68dbb078cd89b62e9e12d20e03da38b7d13f1a33ea6dd32b96f77"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Program.cs",
+    "sha256": "cb88e172717b4b4a0e477f841696aa5acf570b305064b36aa77eb4180cbfc4cb"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.API/Services/NotificationVisitService.cs",
+    "sha256": "25cba22f17789dd76449dd2aa9d23052b10ad6f6c70a4eb29c4e047f089161f1"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Cache/CacheExpiration.cs",
+    "sha256": "48f386b19c507c5e8b01d38954d17b2771425ad4ba8a0ae9eac34b350e37a77c"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Cache/CacheKeys.cs",
+    "sha256": "3caeed4a725e1dc64feed1f6b2a92ac7b1bc8e71cc10c593841acc01e6495f92"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AlertDtos/AlertResponseDto.cs",
+    "sha256": "9a37237ba87ad62e9ec92f8a855aa9a80e9a512519140de08c4aa05bf02cca3a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AlertDtos/CreateAlertDto.cs",
+    "sha256": "0593002fc97f6d6d5b66c3d5ad2743da69d05125e9e98c3c59f67d4f8b548134"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AlertDtos/UpdateAlertDto.cs",
+    "sha256": "993293de2c562770ebf1c9e978b7986673e0db1179d7cd542792ebe2dda309a8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AttachmentReportDtos/AttachmentReportResponseDto.cs",
+    "sha256": "29d6796e89d8aa18489004b523c5f34da47b6d031f26a6824b40497e85735acc"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AttachmentReportDtos/CreateAttachmentReportDto.cs",
+    "sha256": "05dacd25bfc31c17a6beb9682e399d199ce503d5beb17fefff14cb97745e1851"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AttachmentReportDtos/UpdateAttachmentReportDto.cs",
+    "sha256": "0996824f3ee2e4296d6357f9302a4ce4148a3956d7ff6ea9ef1b6d9f61f9adfc"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AuthDtos/LoginDataDto.cs",
+    "sha256": "ca4666480fde64570d108eebc57518654ececbfb7941cbf35c93a6e91568cdcc"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AuthDtos/LoginResponseDto.cs",
+    "sha256": "374f06823a46dc6780bb652590c8e674b111f024ced80b83ea0f883b7fdd2392"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AuthDtos/MeResponse.cs",
+    "sha256": "d8df0e8cfcc3f547b8e9d0d6ce97c84eefe568fe3ff487589a449f64f7dbbbd4"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/AuthDtos/RegisterData.cs",
+    "sha256": "78cfcb743dc7a51722e610f4ae6a057afa8cc6cb587a7f9fdc2faabce86c7c5a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/CareUnitDtos/CareUnitDetailsByIdDto.cs",
+    "sha256": "66c8a928f535725d78e178fa2d066dca7fbf3632f53b2d1963853b8b54be9ed8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/CareUnitDtos/CareUnitResponseDto.cs",
+    "sha256": "7c4591e477dec1e926a122fddf351e1610a47f9039e91cd50b5958d7a2ebef8d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/CareUnitDtos/CreateCareUnitDto.cs",
+    "sha256": "bdc04bf0fcd7817be08f37b77e56e1e67de0388ffe4fd0c3bf9f33547f0d79a0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/CareUnitDtos/UpdateCareUnitDto.cs",
+    "sha256": "a94fdd78a56765a6ace1ee1574aabb23a4f7ff18c317d706becaa118c1c8dcac"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/FamilyDtos/CreateFamilyDto.cs",
+    "sha256": "126987a996a4bbd3407eecdbad7c5f8254cc1e67d9cccd0a31cf4beab7e9eb12"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/FamilyDtos/FamilyResponseDto.cs",
+    "sha256": "60bce1d826a9198c6feca6be9048b880d5c1de7f4bfd07e9a793a34f9b951277"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/FamilyDtos/UpdateFamilyDto.cs",
+    "sha256": "d3e24ab5dfbf71c17a53ab483e0216fc9b445184d95dc4687873c63306d7b3b7"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/LocationDtos/CreateLocationDto.cs",
+    "sha256": "ab62f48290dcc593eaac3c3188a9ccce3cb9dc12f896fbfd4cce2be5d24d5513"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/LocationDtos/LocationResponseByIdDto.cs",
+    "sha256": "22897212d3a55690f88b01d5f5dfdc93b6aa433519a158ef2c78ed65e5ce7992"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/LocationDtos/LocationResponseDto.cs",
+    "sha256": "bcfde2f730665c0a408825ee94dceb146a6467ba0272d5637d564c79af48d01e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/LocationDtos/UpdateLocationDto.cs",
+    "sha256": "1480426f956a6f5a5074cfb08a75aa84f5ea01569d30b8caa5f43ab044ce57b8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/MotoristDtos/CreateMotoristDto.cs",
+    "sha256": "d86c4b401ad5118fceb2565ec8ca803facb190333dc28d319538d1eef6fe9943"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/MotoristDtos/MotoristResponseByIdDto.cs",
+    "sha256": "b472909027a51cf771ff0ba6aa822c3f67f941dac8a8b62588bde032f92088ea"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/MotoristDtos/MotoristResponseDto.cs",
+    "sha256": "42b83169cf4a7bb46731176c5454875ac64fdfcfd9be34df55c1791f9582fe17"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/MotoristDtos/UpdateMotoristDto.cs",
+    "sha256": "9a4a80439a23c722d131b8e324217b5397f46eabe36302c63b7e21274359711d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/NeighborhoodDtos/CreateNeighborhoodDto.cs",
+    "sha256": "4ae62e7700ab5ab4f19dc5dab49412b70adc50423a52935297a768b66e0a5b09"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/NeighborhoodDtos/NeighborhoodDetailsDto.cs",
+    "sha256": "fe2b28080ae4f1c649dc6ac057dcf9d424b79eed714dc12b2f8a83ba309a8fef"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/NeighborhoodDtos/NeighborhoodResponseDto.cs",
+    "sha256": "ecc0864bae68a1cc4d96c8a0d3282a65473e46fe5528d77ac9981b45e37274e9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/NeighborhoodDtos/UpdateNeighborhoodDto.cs",
+    "sha256": "e4523f31b15b1f25344b1b30f6f881d03a7455c6900180256cf71e21778188fe"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/Pagination/PagedResult.cs",
+    "sha256": "e852f1bd18b500430a201cd5a822e20d169b9671087e8d2689ee54e431d89cae"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/Pagination/PaginationParams.cs",
+    "sha256": "88eafa13c79c6752e2183931f9defbf710ed0f3faa9227fd3a3721a41a83d6df"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ProfessionalDto/CreateProfessionalDto.cs",
+    "sha256": "bd4a8da503ba47792ad0c1d2ec1c962466576cc7368bedebe82513af4d3e49a8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ProfessionalDto/ProfessionalResponseDto.cs",
+    "sha256": "80090b3a4aa6d0f3cf0614176d5d79af0e861dfba428331ff5f5a8a3667ab04e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ProfessionalDto/UpdateProfessionalDto.cs",
+    "sha256": "64fc3d472cc558ba8178e38b5e000ded28ae19dab031ea0e5fdc9830275217da"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ReportDtos/CreateReportDto.cs",
+    "sha256": "681daa7afe12c4edd326a2cd95468f099d1e097ebb1ca69205f0d39c66e9c940"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ReportDtos/ReportResponseDto.cs",
+    "sha256": "81f0c59e904ea296ea02866f304cd658160be752cdabf62dbdd1892b18b35a93"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/ReportDtos/UpdateReportDto.cs",
+    "sha256": "59596aecf8f3a6dd692539df7f9154826352b0a237a04ab466acebe6cfa87701"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/UsersDto/UserResponseDto.cs",
+    "sha256": "bf6508f71168a4b4661943740e26977a91e989a9013556f64583ea93619ecfaf"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitAttachmentDtos/CreateVisitAttachmentDto.cs",
+    "sha256": "479e826367b67df42b1934c39bea8c214cdef2e3646308a8f134aeaa4fc07ab9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitAttachmentDtos/UpdateVisitAttachmentDto.cs",
+    "sha256": "6a973fcbf974f740f40d35b3bea973395ff5039e3f176fead4de0b66a214effd"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitAttachmentDtos/UploadAttachmentDto.cs",
+    "sha256": "df8a9dff847d41904387b39e9339f46989752315dd78cdfe9d2bbc8dc4235550"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitAttachmentDtos/VisitAttachmentResponseDto.cs",
+    "sha256": "2cf22bb0207ad197e3aa74dfdaeb762431c0d6eb80018db56fa8d085fab96c62"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/CompleteVisitDto.cs",
+    "sha256": "073ee7e29ed1de7cbb41e92670e86e7e1ab222fcca9254ec25cf10046c889f23"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/CreateVisitDto.cs",
+    "sha256": "2087859d9e0ad44ff406b555753e811c12691095996e348025be790a9191b429"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/RefuseVisitDto.cs",
+    "sha256": "992d54d134c8782e0ba9a7f8dc291a3ec156fdd868251ef614602c9b517dcbc0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/StartVisitDto.cs",
+    "sha256": "78df7302f9c22c7ab14988d8370ab52a8fcdb8b74030c83cf752172f9a00961a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/UpdateVisitDto.cs",
+    "sha256": "b99539318aaab3b1492e3c4ba72040c9c7bcac70fe4e43e5b70bb3b6840c505e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitDtos/VisitResponseDto.cs",
+    "sha256": "b0e61a2250fb19075708a55d5679fd08a1e2504edcce6bf71200c8f44ab81554"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitTypeDtos/CreateVisitTypeDto.cs",
+    "sha256": "f5f112431984af2b7b457ed173585c740ad84e3156f240d9eead56a34bd8b4da"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitTypeDtos/UpdateVisitTypeDto.cs",
+    "sha256": "e42c8ece1ab99f5bf796f61ca7a8e05563c45191e4fd8be33e86778193ba1d90"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitTypeDtos/VisitTypeResponseByIdDto.cs",
+    "sha256": "510dd1fa58319e7e647c577454b08982cffb734312a3db3b64cebc12e4a696b0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitTypeDtos/VisitTypeResponseDto.cs",
+    "sha256": "635e0f7d51d20c4165411d2564171b827f99b0f379c25f6aae35a6f48b0a58df"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitedUserDtos/CreateVisitedUserDto.cs",
+    "sha256": "01ce399be8d39a4eec5405c80224c5d232639d3687f184ee02a6e771bbeeb632"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitedUserDtos/UpdateVisitedUserDto.cs",
+    "sha256": "4f8862d915753dba1a3519cf5d8f4039a755fe35c9c7cecce6701d733ab19406"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitedUserDtos/VisitedUserDetailsDto.cs",
+    "sha256": "20d67049ba62cad9770194eee7b5e8caacf5827fe82133ae5a43bb4997edcc37"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/DTOs/VisitedUserDtos/VisitedUserResponseDto.cs",
+    "sha256": "36059f527e4f33030776aa2d69047038d0873dd843e27ec846ee2b5f77c0ee9f"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/AppException.cs",
+    "sha256": "2d680c36e9aed486015c56fe6d7a39e84e681f30bb59d2c5e04aaaed7040b415"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/BadRequestException.cs",
+    "sha256": "cacf91ca4e2832b2f18818efb09285c2588e5de7d717de121583d773721fd852"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/ConflictException.cs",
+    "sha256": "2d2ac732852c43903a4c2516b1824ae556864e63fc80184d81d7550e80b57ce6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/ForbiddenException.cs",
+    "sha256": "ea41223ac2cce65b8133abe85dc7890c269612c171b2ef67814b2996c284597a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/NotFoundException.cs",
+    "sha256": "9c1bc5289976d160b38b80408395671a507b44f9d6d2dc278cbeddb040fd92c9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Exceptions/UnauthorizedException.cs",
+    "sha256": "02db3e41d8c2762bfda3c7724c13cea2fd583556577af1f0b3033219130da49d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IAlertRepository.cs",
+    "sha256": "51158c5898a5a81ee2809b04a968460e883b3bb67641bd4fe57ecced2553e6a0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IAttachmentReportRepository.cs",
+    "sha256": "c9801e2f330f208ad93c8220a0824d1061cfa4de5997eb2c4a7874ae4007aaaf"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IAuditLogRepository.cs",
+    "sha256": "d4250438054bbccbcb7aeaa430d5508c5fe428f32599687a8ff03c1f81281829"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/ICareUnitRepository.cs",
+    "sha256": "687dbd8e180b9e5264325f1f2f1a6a2eec4e4a30a2bd1cd0f8e6622e9c43a9a6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IFamilyRepository.cs",
+    "sha256": "7613a14b9605896e6dc2277aae8c1d2fa762ee4c40e38fbccd081722a796f247"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/ILocationRepository.cs",
+    "sha256": "b5d53a1a56627dd3aeb1b9339d7f54c34709a3b875d6bacbef06dd33d97e22d0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IMotoristRepository.cs",
+    "sha256": "10af3d0c208d2082d499599047c56c00abba3cee39138212b7bfafe1aeba7c4e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/INeighborhoodRepository.cs",
+    "sha256": "fbf5380f9f04e59dc32fd4a915f2e4c427c758f46fbf19abe1c07c4ffb68e313"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IProfessionalRepository.cs",
+    "sha256": "03d1591c11d767cca43ac4fae39211b6970ebac743a7e06fca080dd3493d599d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IReportRepository.cs",
+    "sha256": "2ec4f2d7bde270693c9fb68e48fe229e3c5e5bf6d74ce3c548804435a8bcc642"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IVisitAttachmentRepository.cs",
+    "sha256": "7ecbae0739e64492e1065de5818efe54c96e9d0afb5c5c937c5a25b26e792cd3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IVisitRepository.cs",
+    "sha256": "5f5ba2a7e5f7e9832884b1d1b9843914a9964a17cea0d6896a2d949b81eb0ad8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IVisitTypeRepository.cs",
+    "sha256": "ce087ed92fd210a2670580a0dc43c23c23952373dac26a75e4790f1390cf3e79"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Repositories/IVisitedUserRepository.cs",
+    "sha256": "9b46ca2b60261c971276d5f3905b6307559729add4bb24f52f7f041bf6433a0c"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IAlertService.cs",
+    "sha256": "bb705a921319fd67c8a6be07d6e5c6a921c7f4bd4bbdf85a1ea501e613edeabb"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IAttachmentReportService.cs",
+    "sha256": "30ef55d51da1f131383413fc165edd429f44c1239f60316868f193f827bee2f4"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IAuditLogService.cs",
+    "sha256": "eda13d7114e33a016d0215391da3166a37f2b08b6cf595b7bd0d300ade42e946"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IAuthService.cs",
+    "sha256": "f8ff55d6acac124590c580a3dbfb9ea688f32e21f3b102be0c944e638abc402b"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/ICareUnitService.cs",
+    "sha256": "087e07df3ba07eec68e822a7c0be227281baeb6ddb6a6c22db59f0192d669286"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IEmailQueue.cs",
+    "sha256": "31df517f4e6cdb5b1c45124abe2a18ff4e0afe1cc57dbb2cac60798abf07aff0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IEmailService.cs",
+    "sha256": "a9e2003ff47717e888eb1a971871b6949057e5ff2131c92c5a1d7fcd116d9c4b"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IFamilyService.cs",
+    "sha256": "2ae99dd473bbbb26512a8f45c4d1905915ea1f8e2cb53806d78f1537af52ffd0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IFileStorageService.cs",
+    "sha256": "c2de3e637338f89c78df564a4367bb96dd6810fa7518b6a858b8877b054b94d3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/ILocationService.cs",
+    "sha256": "79860424e96ac278237df1f748f2c6aa1c8661b81b90b0b765a79a5ff70cf7ac"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IMotoristService.cs",
+    "sha256": "926cb40360336d0b44028a4ac130cfdbfd3417f0b13e9b5abbe8c70482f582d2"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/INeighborhoodService.cs",
+    "sha256": "e08ed24e99ab67e05c0bb94176f30700fe139cd740d9045e899b19a751a3c1b6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/INotificationVisitService.cs",
+    "sha256": "d4691ebe125c964b49b11af199469d53eeddca7e2b86314836cc8d6761502367"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IProfessionalService.cs",
+    "sha256": "5084fd1402e495f336b537dce3564226a96143672f27857dd90e7ebc079b8ffe"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IReportService.cs",
+    "sha256": "9ab4e92015bebabc03777fe34873d4dbc28cd7c40a3d1ae557817a9316851c26"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IUserContextService.cs",
+    "sha256": "079b54508c88fe5820f029011094644e90d6f079b239a79e6c87c84895b28d0d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IUserService.cs",
+    "sha256": "878d9ab9dae3e7bf09cb87ad69296547c2370046172af0362620599be51c53a6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IVisitAttachmentService.cs",
+    "sha256": "70bff2f89b27a47b9d829921adc8141f49cfac2fa5efc0336a70ff436a672e32"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IVisitService.cs",
+    "sha256": "ec33510bdf1a0bf8d23d4b897ca53faf31759b9046249a599f4765ba3212ec1c"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IVisitTypeService.cs",
+    "sha256": "3e46f60471a62bb42a17720c5c4e949a8b036fc27b7b24bf2766e397ba82df19"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Interfaces/Services/IVisitedUserService.cs",
+    "sha256": "69d55a3e553f174f7366b66c19285502c99f07e3c56669ce35c2fd66a3c27bb3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/AlertMappingProfile.cs",
+    "sha256": "df16c193ebedda492ab5617bc07a8682795823cdf8a1ca2dcaf318faba67ce67"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/AttachmentReportMappingProfile.cs",
+    "sha256": "3d649a5570056403dd29958099e6529ba0071675171928bfcf048289ec37a463"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/AuditLogMappingProfile.cs",
+    "sha256": "4c726df24f52650d33bdedbaa0b4feed1140d3ab31c51a12e9c0dd0de9ef2bb4"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/CareUnitMappingProfile.cs",
+    "sha256": "e701cc045dd115cf8c94a54a08b3243ed1d95f554f13c180c1f67ff0718744fb"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/FamilyMappingProfile.cs",
+    "sha256": "3d8e0f960c29835371b80e8dd6d467f2ad4787ee8470fef1191a9d839a744d4a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/LocationMappingProfile.cs",
+    "sha256": "a707c535d5b156479930f332b4d079c52034bca58378b07b8661d668e911f5b9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/MotoristMappingProfile.cs",
+    "sha256": "16303a8c5882b194bcd85bf8b848bbd16716feae303e435edee81c099b4a4888"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/NeighborhoodMappingProfile.cs",
+    "sha256": "9697f53c2f53f1cf32dff4e1aa83468b84082db5ed8b50d1320f9e8147555e57"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/ProfessionalMappingProfile.cs",
+    "sha256": "7f9b0a43d2c5e98bd4312446d7a0431a9e55a67222569e9bc6d30f54f3e9b7ea"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/ReportMappingProfile.cs",
+    "sha256": "ab71f1b99b2ffa627698a02cea64c76d57752deecbf7bc03d9db63d96a59489a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/VisitAttachmentMappingProfile.cs",
+    "sha256": "2209d3526f7725221810edebadf6432b30e076df915c21acfcd9e27c28dbbaf8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/VisitMappingProfile.cs",
+    "sha256": "5cc71a4175dfd15fa28c10bc9b3aca96f6507fe3a3a761902b54c430233eb427"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/VisitTypeMappingProfile.cs",
+    "sha256": "a6fc0275b15aabb9628bad1ecefd4bb0430f120af22e2abf2bfab1e674057d75"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Mappings/VisitedUserMappingProfile.cs",
+    "sha256": "7f5ad8594a9f870066e460a651e39fc0be8aac626bcde4fd148f912ffb2a5371"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/AlertService.cs",
+    "sha256": "e5c0867e72ec98265255d8da9bbeb7674b31845928b272ca73de00bad79f85c2"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/AttachmentReportService.cs",
+    "sha256": "77f7e8ee833600edd363b63d45ab85913cd904a665df15c9b470c90d19343c69"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/AuditLogService.cs",
+    "sha256": "c209ba849d7525f287e3fae4be1ec395f27fa97994b149600f6efa88755d88c9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/CareUnitService.cs",
+    "sha256": "a9ee5746eeb5951f311f8ff0fe9a82d57009d8afcc2b17afed9c7f162925e7de"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/FamilyService.cs",
+    "sha256": "0507d6b6756ac1aa9b536c3a51a0c02bd5b204ed293b42618205d9f4410f64b5"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/LocationService.cs",
+    "sha256": "bb42fe1314313326bf18b8c94be78e64742f6c68fd61f23bdf1811a27d52e8f3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/MotoristService.cs",
+    "sha256": "22959d4d31f4494be3466f7622e7cbacd9924a64d22da7c9bdec021ffcc93926"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/NeighborhoodService.cs",
+    "sha256": "40a5dd5fafb122ccff271b7d2e2a23e983e48cd65694a2d53a339a885e7e20f5"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/ProfessionalService.cs",
+    "sha256": "fcacd19eca1c46e0697c82afa78a5f12d5d1ccb0bfccf431e9fb7bc676185301"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/ReportService.cs",
+    "sha256": "7a0caf70c4cd254688db228f9aa5213f20f76f01cdc7166d416074ee7bb178ac"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/VisitAttachmentService.cs",
+    "sha256": "00413e1b5fdeded3f788a107eaafec5ebf03539b47e8829a39d4743a8cca6b86"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/VisitService.cs",
+    "sha256": "6b0773a4efd0659f64cf41f76951a37aeba0df2c5c8428c6ad67e4c3c806db36"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/VisitTypeService.cs",
+    "sha256": "5157232782ec4a75af81da0d1445e7c08bc622c8e3d57ffc62d0e4e121a5a4a0"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Application/Services/VisitedUserService.cs",
+    "sha256": "f8225d7c56054d6c91643e0944c7e5624bc9a1ad0a7f8f4443480ca652103975"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Alert.cs",
+    "sha256": "74216277b8d9191ad3b6c9eee439a32f870883f2a124abda7adf9cc2a610afa6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/AttachmentReport.cs",
+    "sha256": "1b33636eaee36231101205345e0c7d717797cb0ffa115f6c14f6bb3a91f29b15"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/AuditLog.cs",
+    "sha256": "e6f4b988fee9506bcd2518564950d9ef41a8ea1fe10a6a1bd13e77e57fad140e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/CareUnit.cs",
+    "sha256": "4941715464bd658fe6c5334258545f9f8ff5055260cdead94dd45ddbe732336a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Family.cs",
+    "sha256": "2ba00f2950a79110b507fb95367f0c80fb3fb6eef9363b4d24af5117181d9724"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Location.cs",
+    "sha256": "64df4b9eef2beb51c7e7250dff66844781bf82e6789756dbe1ccfbe77022a660"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Motorist.cs",
+    "sha256": "0d158808007d5dad5a3dc609c39c21905d69b538759592d46c0eb10c3024c3fe"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Neighborhood.cs",
+    "sha256": "91e9953dae88c458ae323f2eeeeaafeca057a48b4b57e849fdf57f65dc63dae5"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Professional.cs",
+    "sha256": "fa3688294a9058d8a920bd084f9db26c3dfcdbbcd78bdf9dd4b86d035d2c6f05"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Report.cs",
+    "sha256": "ebb5025a806ada6ec274f2001545d9169ef94d3b5fc1d7287889d83ed464e124"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/Visit.cs",
+    "sha256": "c4f6bb12a8a0bc8027307df5f9af2b561ae16cc4312e2000a9cb2822c28b7999"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/VisitAttachment.cs",
+    "sha256": "659f657854770fad27a145fdcb1d7d55188bba5e671df4236f33560a41b5da23"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/VisitType.cs",
+    "sha256": "21abc641e5fcc6e216dce2d801b7bf4c2c59bfae332e09fe215402b547298caf"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Entities/VisitedUser.cs",
+    "sha256": "c468ad53eb707c9773ed15e4774563046013a1078a7576e100cde75ef1f4b975"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Domain/Enums/VisitStatus.cs",
+    "sha256": "c3c458954aa8c17e7046b631fefc5dd578682809fbd750f110fb6df72e256b79"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/AlertConfiguration.cs",
+    "sha256": "a34ea5a06f7dd7b036d11e1f83197deaea3abe4644f14b84a17d5520d2d582ba"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/AttachmentReportConfiguration.cs",
+    "sha256": "3910536993c73a41140904816740c1ba24374fad16a50862b986e8f134efce1e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/AuditLogConfiguration.cs",
+    "sha256": "c75e450ca13935ae42a9aa624411eb960ace43c123bbe7ec3914f3e11e177143"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/CareUnitConfiguration.cs",
+    "sha256": "38f7450f8cf62acad54b5a0e135236e5aaef418f04ae82af4c8c7776d6de5bf9"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/FamilyConfiguration.cs",
+    "sha256": "2e3c343823e0dedd026b3e673efb88ca0ae75aeedb7fe46cb77972c9259b3aab"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/LocationConfiguration.cs",
+    "sha256": "217231f488d7d655ae18fb0add96f0204aa73b31a96a3e47238c3ff14b6d4a89"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/MotoristConfiguration.cs",
+    "sha256": "9942aaa86e0dbfbabd37b67f23b17079b205875097c9c9b231b3bc1960e45795"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/NeighborhoodConfiguration.cs",
+    "sha256": "44b7dba60ee8f7143f3c3ffaea15467308c752c6d187a743885876043cb51c43"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/ProfessionalConfiguration.cs",
+    "sha256": "a6f9fe74e11d0225ab6b542c20bbfaba82551b11e842e2130f24cd4043490515"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/ReportConfiguration.cs",
+    "sha256": "c7802a9bfe3b2a51b56a6659d6d744186f4c0c9d0fa61b528d93ab81c193a88e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/VisitAttachmentConfiguration.cs",
+    "sha256": "cf93d7be5f8fe1c39ed4efa5c9541c01c96480c293820b6181b915ec3100a2d5"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/VisitConfiguration.cs",
+    "sha256": "f54d8c6d1cc9d69af21e4e22264799a3f4ed0f00638b64d7cd5158bca923e414"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/VisitTypeConfiguration.cs",
+    "sha256": "63528da41ee1cd7056c85b2bc90b4279a8ab59be1ce48c8de681091de480ba86"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Configurations/VisitedUserConfiguration.cs",
+    "sha256": "06c84c83d07a3cb68c086d7b8fceebbfc800687e6b2a332ac14817f7320768eb"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Context/AppDbContext.cs",
+    "sha256": "f005ba62492e006a9e6995b7b8cf7bd506ac2065939c9adaa5451fceae47b0cf"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Data/Context/AppDbContextFactory.cs",
+    "sha256": "0f640b9fc014c9de151869cf6589c3f3b6781eb2f0b25cc2d4fdd0ce2b0e8ff6"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Email/Helpers/EmailTemplateRenderer.cs",
+    "sha256": "a222bff626aad6045f31fbc4986518a089188b789a760c338df9fc4709eec8b8"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Email/Queue/EmailBackgroundService.cs",
+    "sha256": "d387c6962ee2a757833b89d80d049bd371e86883e65aecd9e3ae3401ffedda24"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Email/Queue/EmailQueue.cs",
+    "sha256": "56b294f521e6a959d2b52737d7ee81f9032f97b744c6d806e615d7b843cc7437"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Email/Queue/EmailQueueItem.cs",
+    "sha256": "238f493a0495c26c7bba4664f887699594332f6a87ec2e3b10f776513c26cd7a"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Email/Services/EmailService.cs",
+    "sha256": "99bb26fa0b72d902a9efb9fc599ffb4feccc81503ed7c1e4e71bc0b3fc5d5475"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Identity/ApplicationUser.cs",
+    "sha256": "3d10034a56089f6acf2996668e0c2abed560716314ab0b7624dc3fdf9480cf37"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Identity/CustomClaimsPrincipalFactory.cs",
+    "sha256": "f298d1f129a53e52483684ffb6299389dee177ce38e234639f1ac918afc468ec"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Identity/IdentitySeeder.cs",
+    "sha256": "eaae04260d0a46c6ad28f496b119459137451a85b223152c73b279a677780c94"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/CareUnitRepository.cs",
+    "sha256": "854c9fa3d4bef29b2581a58223a00c6392a8b7b49736bf60052d8181ca6a7d94"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/FamilyRepository.cs",
+    "sha256": "a59715e761da2a4c2b6b33ac6abd690d1957627e99ff61346933ddc622fde87d"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/LocationRepository.cs",
+    "sha256": "231cc3d15a95b27d5e0bf42e1cb900d2315cd3d25169077aba497aac5bdbd9ff"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/NeighborhoodRepository.cs",
+    "sha256": "b0400854b36f301c18fc79dab6f6b8b6b6e8403005f92fd5a8c7cb83f72f0497"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/ProfessionalRepository.cs",
+    "sha256": "9bb93387bcdcbb7f0cd04d1002d323be8cb84d24b431d179138198a406de2683"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/VisitAttachmentRepository.cs",
+    "sha256": "b3ec9a1a054cbfa7883c52ab3f6ed0aade7b4181ebaed49a2c3e0d32c1e3f921"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/VisitRepository.cs",
+    "sha256": "b56550be82f32a9b27617cac26b860a6e28abe03f3e19ee82270f9b42dfd860e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/VisitTypeRepository.cs",
+    "sha256": "e24c894efc093ee5cbcfa356e0fd07f24a4350e378457791200ddc5544cf2300"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Repositories/VisitedUserRepository.cs",
+    "sha256": "9a8a7f95cdc910f849ae874d6f823505424455544bb5c78c513baa25f37131b3"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Services/AuthService.cs",
+    "sha256": "3b2b6583bf5ee0476ad13cc6eb47af3eea22b6686acba3bdf052937b59fba01e"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Services/LocalFileStorageService.cs",
+    "sha256": "12ac061f097b63e0f7efa3095fc6cb3060e5e0a6010806106306202d11bbdca7"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Services/UserContextService.cs",
+    "sha256": "9723cd4c7490eddc621818f85654cd32586a973d99113b023fd7144356682442"
+  },
+  {
+    "origin": "backend",
+    "file": "Domus.Infrastructure/Services/UserService.cs",
+    "sha256": "89633e26025216f0853664d01b622f97aaa44b47cfba6f5f984bcad18b37915b"
+  },
+  {
+    "origin": "frontend",
+    "file": "public/favicon.svg",
+    "sha256": "2f10c0a97b8db1d99d1f6bc8402738f99392715491e0f55ad911efeb7d7ef3b2"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/auth/AuthContext.tsx",
+    "sha256": "c6ef388d8a699a0ee7787d571192a0022b687e514c50eefe0a2209e78010ae5a"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/Layout.tsx",
+    "sha256": "8549d141f3bbc45e15d007cc6e95eed0910e2e100cdf8197407df8c1d760b6d3"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/components/ui.tsx",
+    "sha256": "85555d7127a046d3ea46db368f6d8d367453dc82c9574359430f00f06f77b78c"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/api.ts",
+    "sha256": "409582ee85b3b9a83a2fb7b8c6dc8fcc770f7ffc433b86795fed9b4255b486b3"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/types.ts",
+    "sha256": "5356139de4a6267c42b15b7a366f1a783252501ffa6721f8d45f244cddd2d8e3"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/utils.test.ts",
+    "sha256": "37aaba2b4fec191aae08d6eae51057bdcbe557804bea29099e6fb6318a16467a"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/lib/utils.ts",
+    "sha256": "1ba42a27da9514140472f805c1bce33c9cc6f4632937c3d65ef9c05939de2a78"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/main.tsx",
+    "sha256": "15ec45e3cadf62baed3c430e38e219e3e8cdc07cd79fae8001fcf8e0624c2e84"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Dashboard.tsx",
+    "sha256": "ffe1577b8ba7381df52e148d3f9617bf257d63ba42aa282222d1a8aa0f0e4b5e"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Details.tsx",
+    "sha256": "1f0375eff80f24bf7df65ed2d366ae36b9bdf19a2b7f568784412633c6eccec7"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Login.tsx",
+    "sha256": "d5922c96e2db799f0a7fd0bb76836667093a3dcccc663aa50b2dd8a7b1c7938b"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/People.tsx",
+    "sha256": "3e48ff415a48b858e7d7be6c6f27002cc405ef833f11b26caacd470fb2641ed2"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Professionals.tsx",
+    "sha256": "cbe57fa06579db2a987e8f0ae829d08521bd055b86f3f460c588cf9c67658d6b"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Resources.tsx",
+    "sha256": "132873daf8cb872440edaba17e80fd9b23b135d0d5c1f25a3fd5ab9254509619"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/pages/Visits.tsx",
+    "sha256": "c19e8824dafce8f69f4fafcf9f3236422c21e8144ec15528ae77ce0ef9a54c49"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/styles.css",
+    "sha256": "51d4f105c3717707a02274c01b58ad52049bdd308689b769a25d9205f748ea24"
+  },
+  {
+    "origin": "frontend",
+    "file": "src/vite-env.d.ts",
+    "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+  },
+  {
+    "origin": "frontend",
+    "file": "vite.config.ts",
+    "sha256": "9fad9e4f09f06e53314409d589049989bf01d1af02f769e0e7cb973ac1559bfa"
+  }
+]
