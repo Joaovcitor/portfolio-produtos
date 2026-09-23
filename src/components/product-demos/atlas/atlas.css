@@ -1,0 +1,57 @@
+.atlasApp {
+  font: 15px Inter, system-ui, sans-serif;
+  background: #f7f1e6;
+  color: #28211c;
+  min-height: 600px;
+  text-align: left;
+}
+.atlasApp button, .atlasApp input { font: inherit; }
+.atlasApp button { cursor: pointer; }
+.atlasApp h1 { font: 700 34px Georgia, serif; margin: 6px 0; }
+.atlasApp p { color: #746a5e; }
+.atlasApp .primary { background: #722f37; color: #fff; border: 0; padding: 12px 17px; display: inline-flex; gap: 8px; align-items: center; border-radius: 4px; }
+.atlasApp .mark { color: #c99a3d; font-size: 24px; }
+.atlasApp .mark b { color: #fff; margin-left: 6px; letter-spacing: 3px; }
+.atlasApp .mark small { display: block; color: #d5c7ad; font: 11px system-ui; letter-spacing: 1px; margin-left: 31px; }
+
+.atlasApp .shell { display: grid; grid-template-columns: 250px 1fr; min-height: 600px; }
+.atlasApp .shell aside { background: #28211c; padding: 28px 14px; display: flex; flex-direction: column; gap: 5px; }
+.atlasApp .shell aside .mark { margin: 0 12px 36px; }
+.atlasApp .shell aside button { background: transparent; border: 0; color: #dbd0bd; text-align: left; padding: 12px; display: flex; gap: 10px; border-radius: 4px; }
+.atlasApp .shell aside button:hover, .atlasApp .shell aside .active { background: #722f37; color: #fff; }
+.atlasApp .shell main nav { height: 66px; border-bottom: 1px solid #e3d7c4; display: flex; align-items: center; justify-content: space-between; padding: 0 4%; background: #fffaf1; }
+.atlasApp .shell main nav button { border: 0; background: transparent; color: #722f37; }
+.atlasApp .page { padding: 48px max(5%, 32px); }
+
+.atlasApp header { display: flex; justify-content: space-between; align-items: end; margin-bottom: 30px; }
+.atlasApp header span { font-size: 11px; color: #a24b35; letter-spacing: 1.4px; font-weight: bold; }
+.atlasApp .card, .atlasApp .hero { background: #fffaf1; border: 1px solid #e3d7c4; padding: 24px; border-radius: 6px; }
+.atlasApp .bar { color: #746a5e; margin-bottom: 14px; }
+
+.atlasApp .row { border-top: 1px solid #eadfce; padding: 16px 0; display: grid; grid-template-columns: repeat(4, 1fr) auto; gap: 16px; align-items: center; }
+.atlasApp .row small { display: block; color: #887a6a; }
+.atlasApp .row b { font-weight: 500; }
+.atlasApp .row button, .atlasApp .card footer button { border: 1px solid #cdbda7; background: transparent; padding: 7px 10px; color: #722f37; border-radius: 4px; }
+.atlasApp .card footer { display: flex; justify-content: space-between; margin-top: 18px; align-items: center; }
+
+.atlasApp .empty { text-align: center; padding: 45px; }
+
+.atlasApp .modal { position: fixed; inset: 0; background: #28211caa; display: grid; place-items: center; padding: 20px; z-index: 100; }
+.atlasApp .modal form { background: #fffaf1; padding: 28px; max-width: 530px; width: 100%; border-radius: 8px; }
+.atlasApp .modal label { display: block; margin: 18px 0; color: #51483d; }
+.atlasApp .modal input { display: block; width: 100%; padding: 12px; border: 1px solid #d8cbb7; background: #fff; margin-top: 6px; border-radius: 4px; }
+.atlasApp .modal .primary { margin-left: 10px; }
+
+.atlasApp[data-theme="dark"] { background: #211b17; color: #f2e6ce; }
+.atlasApp[data-theme="dark"] .shell main nav, .atlasApp[data-theme="dark"] .card, .atlasApp[data-theme="dark"] .hero, .atlasApp[data-theme="dark"] .modal form { background: #302720; border-color: #514233; }
+.atlasApp[data-theme="dark"] p { color: #cbbda8; }
+
+@media(max-width: 800px) {
+  .atlasApp .shell { display: block; }
+  .atlasApp .shell aside { display: none; }
+  .atlasApp .page { padding: 28px 16px; }
+  .atlasApp .row { grid-template-columns: 1fr 1fr; }
+  .atlasApp .row button { grid-column: 1 / -1; }
+  .atlasApp header { align-items: start; gap: 15px; flex-direction: column; }
+  .atlasApp .card { padding: 16px; }
+}
