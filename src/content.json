@@ -98,6 +98,12 @@
         "title": "O acesso ganha limites",
         "description": "Com a identidade e o perfil garantidos, Ana recebe seu acesso aos sistemas. A gestão central autoriza o login de acordo com as permissões da sua função, protegendo a operação.",
         "view": 2
+      },
+      {
+        "step": 4,
+        "title": "Explorar o sistema completo",
+        "description": "Navegue de forma interativa por 100% das páginas, rotas e módulos do Atlas neste ambiente demonstrativo seguro.",
+        "view": "explore"
       }
     ]
   },
@@ -211,6 +217,12 @@
         "title": "A operação ganha realidade",
         "description": "Rafael, o visitador, chega ao domicílio. Ele assume e inicia a visita com validação de geolocalização. Ao terminar, preenche o relato, anexa fotos e encerra o ciclo no local.",
         "view": 2
+      },
+      {
+        "step": 4,
+        "title": "Explorar o sistema completo",
+        "description": "Navegue de forma interativa por 100% das páginas, rotas e módulos do Domus neste ambiente demonstrativo seguro.",
+        "view": "explore"
       }
     ]
   },
@@ -324,6 +336,12 @@
         "title": "O atendimento ganha clareza",
         "description": "Na mesa de operação, o atendente inicia o atendimento de Mariana. Todo o ciclo — da emissão à conclusão — é acompanhado com indicadores em tempo real.",
         "view": 0
+      },
+      {
+        "step": 4,
+        "title": "Explorar o sistema completo",
+        "description": "Navegue de forma interativa por 100% das páginas, rotas e módulos do VemKa neste ambiente demonstrativo seguro.",
+        "view": "explore"
       }
     ]
   },
@@ -448,6 +466,12 @@
         "title": "A solução ganha referência",
         "description": "Para resolver a demanda, Clara consulta a Base de Conhecimento do Ordian. Após aplicar a solução, ela encerra o ticket. O ciclo é concluído e o histórico protegido.",
         "view": 2
+      },
+      {
+        "step": 4,
+        "title": "Explorar o sistema completo",
+        "description": "Navegue de forma interativa por 100% das páginas, rotas e módulos do Ordian neste ambiente demonstrativo seguro.",
+        "view": "explore"
       }
     ]
   }

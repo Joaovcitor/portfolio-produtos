@@ -7,7 +7,7 @@ import { OrdianApp } from './components/product-demos/ordian/OrdianApp';
 export type ProductId = 'atlas' | 'domus' | 'vemka' | 'ordian';
 const names = { atlas: 'Atlas', domus: 'Domus', vemka: 'VemKa', ordian: 'Ordian' };
 
-export function Mockup({ id, view = 0, interactive = false }: { id: ProductId; view?: number; interactive?: boolean }) {
+export function Mockup({ id, view = 0, interactive = false }: { id: ProductId; view?: number | 'explore'; interactive?: boolean }) {
   return (
     <div className={`mockup mock-${id}`} data-mock={id}>
       <div className="windowbar">

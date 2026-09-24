@@ -6,9 +6,9 @@ export const ordianTasks = [
 ];
 
 export const ordianKnowledge = [
-  { title: 'Como registrar uma boa solicitação', description: 'Descreva o contexto, selecione o departamento e reúna os arquivos necessários.', category: 'PROCESSOS INTERNOS' },
-  { title: 'Primeiros passos na unidade', description: 'Guia de integração para novos membros da equipe.', category: 'INTEGRAÇÃO' },
-  { title: 'Solução de falhas de rede', description: 'Passo a passo para restabelecer a comunicação entre equipamentos da Unidade Norte e Central.', category: 'ATENDIMENTO' },
+  { id: 1, title: 'Como registrar uma boa solicitação', description: 'Descreva o contexto, selecione o departamento e reúna os arquivos necessários.', category: 'PROCESSOS INTERNOS', isActive: true },
+  { id: 2, title: 'Primeiros passos na unidade', description: 'Guia de integração para novos membros da equipe.', category: 'INTEGRAÇÃO', isActive: true },
+  { id: 3, title: 'Solução de falhas de rede', description: 'Passo a passo para restabelecer a comunicação entre equipamentos da Unidade Norte e Central.', category: 'ATENDIMENTO', isActive: true },
 ];
 
 export const ordianTaskDetails = {
@@ -28,3 +28,28 @@ export const ordianTaskDetails = {
     { text: 'Aplicar configuração correta', completed: false }
   ]
 };
+
+export const ordianSla = [
+  { id: 1, department: 'TI', category: 'Suporte', priority: 'Alta', firstResponse: '1 hora', resolution: '4 horas', isActive: true },
+  { id: 2, department: 'RH', category: 'Administrativo', priority: 'Média', firstResponse: '4 horas', resolution: '24 horas', isActive: true },
+  { id: 3, department: 'Manutenção', category: 'Infraestrutura', priority: 'Baixa', firstResponse: '24 horas', resolution: '72 horas', isActive: true }
+];
+
+export const ordianUsers = [
+  { id: 1, name: 'Clara Santos', email: 'clara@ordian.gov.br', department: 'TI', roles: ['Equipe', 'Admin'], isActive: true },
+  { id: 2, name: 'Rafael Martins', email: 'rafael@ordian.gov.br', department: 'TI', roles: ['Equipe'], isActive: true },
+  { id: 3, name: 'Ana Beatriz', email: 'ana@ordian.gov.br', department: 'RH', roles: ['Equipe'], isActive: true }
+];
+
+export const ordianDepartments = [
+  { id: 1, name: 'Tecnologia da Informação', code: 'TI', isCustomer: false, isProvider: true, isActive: true },
+  { id: 2, name: 'Recursos Humanos', code: 'RH', isCustomer: true, isProvider: true, isActive: true },
+  { id: 3, name: 'Unidade Norte', code: 'UN', isCustomer: true, isProvider: false, isActive: true }
+];
+
+export const ordianCategories = [
+  { id: 1, name: 'Suporte', department: 'TI', isActive: true },
+  { id: 2, name: 'Manutenção', department: 'Infraestrutura', isActive: true },
+  { id: 3, name: 'Acesso', department: 'TI', isActive: true },
+  { id: 4, name: 'Administrativo', department: 'RH', isActive: true }
+];
